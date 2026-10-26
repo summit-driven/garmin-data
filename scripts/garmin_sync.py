@@ -87,6 +87,52 @@ def slug(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", (s or "").lower()).strip("-") or "activity"
 
 
+class Progress:
+    """Pasek postępu z szacowanym czasem do końca.
+
+    W terminalu rysuje jedną odświeżaną linię. W logu (launchd, przekierowanie
+    do pliku) wypisuje zwykłe linie z licznikiem i procentem.
+    """
+
+    WIDTH = 30
+
+    def __init__(self, label: str, total: int) -> None:
+        self.label, self.total, self.done = label, total, 0
+        self.t0 = time.monotonic()
+        self.tty = sys.stderr.isatty()
+
+    def _eta(self) -> str:
+        if not self.done:
+            return "--:--"
+        left = (time.monotonic() - self.t0) / self.done * (self.total - self.done)
+        m, s = divmod(int(left), 60)
+        return f"{m:02d}:{s:02d}"
+
+    def step(self, what: str) -> None:
+        """Wywołaj PRZED pobraniem elementu `what`."""
+        pct = self.done / self.total * 100 if self.total else 100
+        head = f"{self.label} {self.done + 1}/{self.total} {pct:3.0f}% ETA {self._eta()}"
+        if self.tty:
+            fill = int(self.WIDTH * self.done / max(self.total, 1))
+            bar = "█" * fill + "░" * (self.WIDTH - fill)
+            sys.stderr.write(f"\r\033[K{bar} {head}  {what}"[:160])
+            sys.stderr.flush()
+        else:
+            log.info("[%s] %s", head, what)
+
+    def advance(self) -> None:
+        self.done += 1
+
+    def close(self) -> None:
+        if self.tty and self.total:
+            took = int(time.monotonic() - self.t0)
+            sys.stderr.write(
+                f"\r\033[K{'█' * self.WIDTH} {self.label} {self.total}/{self.total} "
+                f"100% w {took // 60}:{took % 60:02d}\n"
+            )
+            sys.stderr.flush()
+
+
 # --------------------------------------------------------------------------- daily
 def fetch_day(g: Garmin, day: dt.date) -> dict[str, Any]:
     c = day.isoformat()
@@ -122,16 +168,24 @@ def fetch_day(g: Garmin, day: dt.date) -> dict[str, Any]:
 
 
 def sync_daily(g: Garmin, start: dt.date, end: dt.date, force: bool) -> int:
-    n = 0
     tail_from = end - dt.timedelta(days=REFRESH_TAIL_DAYS)
-    for day in daterange(start, end):
-        path = DATA / "daily" / f"{day.isoformat()}.json"
-        if path.exists() and not force and day < tail_from:
-            continue
-        log.info("dzień %s", day)
-        dump(path, fetch_day(g, day))
-        n += 1
-    return n
+    todo = [
+        day
+        for day in daterange(start, end)
+        if force
+        or day >= tail_from
+        or not (DATA / "daily" / f"{day.isoformat()}.json").exists()
+    ]
+    skipped = (end - start).days + 1 - len(todo)
+    if skipped:
+        log.info("dni: %d do pobrania, %d już są", len(todo), skipped)
+    bar = Progress("dni", len(todo))
+    for day in todo:
+        bar.step(day.isoformat())
+        dump(DATA / "daily" / f"{day.isoformat()}.json", fetch_day(g, day))
+        bar.advance()
+    bar.close()
+    return len(todo)
 
 
 # --------------------------------------------------------------------------- activities
@@ -160,17 +214,22 @@ def sync_activities(
     g: Garmin, start: dt.date, end: dt.date, force: bool, fit: bool
 ) -> int:
     acts = g.get_activities_by_date(start.isoformat(), end.isoformat()) or []
-    n = 0
-    for a in acts:
-        aid = str(a["activityId"])
+
+    def target(a: dict[str, Any]) -> Path:
         day = (a.get("startTimeLocal") or "")[:10] or "unknown"
         typ = slug((a.get("activityType") or {}).get("typeKey", ""))
-        path = DATA / "activities" / f"{day}_{aid}_{typ}.json"
-        if path.exists() and not force:
-            continue
-        log.info("trening %s %s (%s)", day, a.get("activityName"), typ)
+        return DATA / "activities" / f"{day}_{a['activityId']}_{typ}.json"
+
+    todo = [a for a in acts if force or not target(a).exists()]
+    if len(acts) > len(todo):
+        log.info("treningi: %d do pobrania, %d już są", len(todo), len(acts) - len(todo))
+    bar = Progress("treningi", len(todo))
+    for a in todo:
+        aid = str(a["activityId"])
+        path = target(a)
+        bar.step(f"{path.name[:10]} {a.get('activityName')}")
         dump(path, fetch_activity(g, a))
-        n += 1
+        bar.advance()
         if fit:
             fit_path = DATA / "activities" / "fit" / f"{aid}.zip"
             if not fit_path.exists():
@@ -184,7 +243,8 @@ def sync_activities(
                 except Exception as e:  # noqa: BLE001
                     log.warning("FIT %s: %s", aid, e)
                 time.sleep(PAUSE)
-    return n
+    bar.close()
+    return len(todo)
 
 
 # --------------------------------------------------------------------------- latest
