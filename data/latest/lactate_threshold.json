@@ -1,0 +1,23 @@
+{
+ "power": {
+  "calendarDate": "2026-10-25T12:46:02.0",
+  "ftpCreateTime": "2026-10-25T12:46:02.0",
+  "functionalThresholdPower": 492,
+  "isStale": false,
+  "origin": "power",
+  "powerToWeight": 5.2063492063492065,
+  "sport": "RUNNING",
+  "userProfilePk": 107188880,
+  "weight": 94.5,
+  "weightCreateTime": "2024-07-09T08:04:35.0"
+ },
+ "speed_and_heart_rate": {
+  "calendarDate": "2026-10-25T12:46:12.318",
+  "heartRate": 164,
+  "heartRateCycling": null,
+  "sequence": 1792928772355,
+  "speed": 0.37499895,
+  "userProfilePK": 107188880,
+  "version": 1792928772355
+ }
+}

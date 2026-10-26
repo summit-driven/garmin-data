@@ -1,0 +1,1234 @@
+{
+ "details": {
+  "accessControlRuleDTO": {
+   "typeId": 2,
+   "typeKey": "private"
+  },
+  "activityId": 24677125093,
+  "activityName": "Kościelisko Wspinaczka",
+  "activityTypeDTO": {
+   "isHidden": false,
+   "parentTypeId": 4,
+   "restricted": false,
+   "trimmable": true,
+   "typeId": 37,
+   "typeKey": "mountaineering"
+  },
+  "activityUUID": {
+   "uuid": "dff16f56-e28a-45ed-b8d9-1eb69d409994"
+  },
+  "eventTypeDTO": {
+   "sortOrder": 10,
+   "typeId": 9,
+   "typeKey": "uncategorized"
+  },
+  "isMultiSportParent": false,
+  "locationName": "Kościelisko",
+  "metadataDTO": {
+   "activityImages": [],
+   "agentApplicationInstallationId": null,
+   "agentString": null,
+   "associatedCourseId": 522824154,
+   "associatedWorkoutId": null,
+   "autoCalcCalories": false,
+   "calendarEventInfo": null,
+   "childActivityTypes": [],
+   "childIds": [],
+   "deviceApplicationInstallationId": 1017382,
+   "deviceMetaDataDTO": {
+    "deviceId": "3417032663",
+    "deviceTypePk": 36906,
+    "deviceVersionPk": 1017382
+   },
+   "diveNumber": null,
+   "eBikeAssistModeInfoDTOList": null,
+   "eBikeBatteryRemaining": null,
+   "eBikeBatteryUsage": null,
+   "eBikeMaxAssistModes": null,
+   "elevationCorrected": false,
+   "favorite": false,
+   "fileFormat": {
+    "formatId": 7,
+    "formatKey": "fit"
+   },
+   "gcj02": false,
+   "groupRideUUID": null,
+   "hasChartData": true,
+   "hasHeatMap": false,
+   "hasHrTimeInZones": true,
+   "hasIntensityIntervals": false,
+   "hasMultiDayActivities": false,
+   "hasPolyline": true,
+   "hasPowerTimeInZones": false,
+   "hasRunPowerWindData": null,
+   "hasSplits": false,
+   "isAtpActivity": null,
+   "isOriginal": true,
+   "lapCount": 9,
+   "lastUpdateDate": "2026-10-10T17:11:31.0",
+   "manualActivity": false,
+   "manufacturer": "GARMIN",
+   "personalRecord": false,
+   "runPowerWindDataEnabled": null,
+   "sensors": null,
+   "sessionResultType": "ORIGINAL",
+   "trimmed": false,
+   "uploadedDate": "2026-10-10T17:11:30.0",
+   "userInfoDto": {
+    "displayname": "33b301a7-5ce9-4d3c-a9c2-c2776a5c0af7",
+    "fullname": "Paweł",
+    "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/10d9633a-4024-417c-ab09-c2d4c717469c-107188880.png",
+    "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/05c3a781-f3ba-4d2c-9edb-67bba31083a6-107188880.png",
+    "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/3786d826-72ea-488b-9788-bd6891653855-107188880.png",
+    "userPro": false,
+    "userProfilePk": 107188880
+   },
+   "videoUrl": null
+  },
+  "summaryDTO": {
+   "activityTrainingLoad": 71.21272277832031,
+   "aerobicTrainingEffectMessage": "MAINTAINING_AEROBIC_BASE_7",
+   "anaerobicTrainingEffect": 0.0,
+   "anaerobicTrainingEffectMessage": "NO_ANAEROBIC_BENEFIT_0",
+   "averageHR": 108.0,
+   "averageMovingSpeed": 1.4226657365162654,
+   "averageSpeed": 0.8740000128746034,
+   "averageTemperature": 21.52247187318642,
+   "avgElevation": 1648.91,
+   "bmrCalories": 1216.0,
+   "calories": 5317.0,
+   "differenceBodyBattery": -2,
+   "distance": 38751.21,
+   "duration": 44316.617,
+   "elapsedDuration": 44316.617,
+   "elevationGain": 2650.12,
+   "elevationLoss": 2730.33,
+   "endLatitude": 49.28658390417695,
+   "endLongitude": 19.846543595194817,
+   "maxElevation": 2294.0,
+   "maxHR": 158.0,
+   "maxSpeed": 3.750999927520752,
+   "maxTemperature": 29.0,
+   "maxVerticalSpeed": 2.39990234375,
+   "minActivityLapDuration": 4.666,
+   "minElevation": 892.2,
+   "minHR": 60.0,
+   "minTemperature": 14.0,
+   "moderateIntensityMinutes": 313,
+   "movingDuration": 27238.451,
+   "startLatitude": 49.261513128876686,
+   "startLongitude": 19.816461112350225,
+   "startTimeGMT": "2026-10-10T04:52:23.0",
+   "startTimeLocal": "2026-10-10T06:52:23.0",
+   "steps": 41738,
+   "trainingEffect": 2.9000000953674316,
+   "trainingEffectLabel": "AEROBIC_BASE",
+   "vigorousIntensityMinutes": 179,
+   "waterEstimated": 6064.0
+  },
+  "timeZoneUnitDTO": {
+   "factor": 0.0,
+   "timeZone": "Europe/Paris",
+   "unitId": 124,
+   "unitKey": "Europe/Paris"
+  },
+  "userProfileId": 107188880
+ },
+ "fetched_at": "2026-10-26T21:31:21+00:00",
+ "hr_zones": [
+  {
+   "secsInZone": 17931.342,
+   "zoneLowBoundary": 93,
+   "zoneNumber": 1
+  },
+  {
+   "secsInZone": 10688.575,
+   "zoneLowBoundary": 112,
+   "zoneNumber": 2
+  },
+  {
+   "secsInZone": 6473.021,
+   "zoneLowBoundary": 132,
+   "zoneNumber": 3
+  },
+  {
+   "secsInZone": 113.002,
+   "zoneLowBoundary": 149,
+   "zoneNumber": 4
+  },
+  {
+   "secsInZone": 0.0,
+   "zoneLowBoundary": 170,
+   "zoneNumber": 5
+  }
+ ],
+ "laps": {
+  "activityId": 24677125093,
+  "eventDTOs": [
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-10-10T04:52:22.0",
+    "startTimeGMTDoubleValue": 1791607942000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T04:52:22.0",
+    "startTimeGMTDoubleValue": 1791607942000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-10-10T04:52:23.0",
+    "startTimeGMTDoubleValue": 1791607943000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T11:15:23.0",
+    "startTimeGMTDoubleValue": 1791630923000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T11:15:47.0",
+    "startTimeGMTDoubleValue": 1791630947000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T12:17:26.0",
+    "startTimeGMTDoubleValue": 1791634646000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T12:25:18.0",
+    "startTimeGMTDoubleValue": 1791635118000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T13:26:49.0",
+    "startTimeGMTDoubleValue": 1791638809000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T13:46:20.0",
+    "startTimeGMTDoubleValue": 1791639980000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T14:15:51.0",
+    "startTimeGMTDoubleValue": 1791641751000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T14:17:18.0",
+    "startTimeGMTDoubleValue": 1791641838000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T14:37:39.0",
+    "startTimeGMTDoubleValue": 1791643059000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T14:47:46.0",
+    "startTimeGMTDoubleValue": 1791643666000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T15:03:53.0",
+    "startTimeGMTDoubleValue": 1791644633000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T15:04:30.0",
+    "startTimeGMTDoubleValue": 1791644670000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T16:45:11.0",
+    "startTimeGMTDoubleValue": 1791650711000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T16:46:05.0",
+    "startTimeGMTDoubleValue": 1791650765000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-10-10T17:11:00.0",
+    "startTimeGMTDoubleValue": 1791652260000.0
+   }
+  ],
+  "lapDTOs": [
+   {
+    "averageHR": 113.0,
+    "averageMovingSpeed": 1.3453332884083327,
+    "averageSpeed": 0.8309999704360962,
+    "averageTemperature": 20.0,
+    "bmrCalories": 546.0,
+    "calories": 2711.0,
+    "connectIQMeasurement": [],
+    "distance": 16532.8,
+    "duration": 19896.859,
+    "elapsedDuration": 19896.859,
+    "elevationGain": 1997.45,
+    "elevationLoss": 762.56,
+    "endLatitude": 49.19923843815923,
+    "endLongitude": 19.820030545815825,
+    "intensityType": "ACTIVE",
+    "lapIndex": 1,
+    "lengthDTOs": [],
+    "maxElevation": 2223.4,
+    "maxHR": 149.0,
+    "maxSpeed": 2.071000099182129,
+    "maxTemperature": 28.0,
+    "maxVerticalSpeed": 2.39990234375,
+    "messageIndex": 0,
+    "minElevation": 972.8,
+    "minTemperature": 14.0,
+    "movingDuration": 12289.0,
+    "startLatitude": 49.261513128876686,
+    "startLongitude": 19.816461112350225,
+    "startTimeGMT": "2026-10-10T04:52:23.0"
+   },
+   {
+    "averageHR": 105.0,
+    "averageMovingSpeed": 1.5655021968799367,
+    "averageSpeed": 0.6399999856948853,
+    "averageTemperature": 22.0,
+    "bmrCalories": 298.0,
+    "calories": 1288.0,
+    "connectIQMeasurement": [],
+    "distance": 6936.74,
+    "duration": 10842.599,
+    "elapsedDuration": 10842.599,
+    "elevationGain": 528.6,
+    "elevationLoss": 913.73,
+    "endLatitude": 49.21555674634874,
+    "endLongitude": 19.834383884444833,
+    "intensityType": "ACTIVE",
+    "lapIndex": 2,
+    "lengthDTOs": [],
+    "maxElevation": 2294.0,
+    "maxHR": 158.0,
+    "maxSpeed": 3.750999927520752,
+    "maxTemperature": 28.0,
+    "maxVerticalSpeed": 1.800048828125,
+    "messageIndex": 1,
+    "minElevation": 1820.0,
+    "minTemperature": 16.0,
+    "movingDuration": 4431.0,
+    "startLatitude": 49.19923910871148,
+    "startLongitude": 19.820022583007812,
+    "startTimeGMT": "2026-10-10T10:24:00.0"
+   },
+   {
+    "averageHR": 114.0,
+    "averageMovingSpeed": 1.3643299146736658,
+    "averageSpeed": 0.9819999933242798,
+    "averageTemperature": 25.0,
+    "bmrCalories": 63.0,
+    "calories": 269.0,
+    "connectIQMeasurement": [],
+    "distance": 2249.78,
+    "duration": 2290.598,
+    "elapsedDuration": 2290.598,
+    "elevationGain": 19.35,
+    "elevationLoss": 382.55,
+    "endLatitude": 49.2321503162384,
+    "endLongitude": 19.836416244506836,
+    "intensityType": "ACTIVE",
+    "lapIndex": 3,
+    "lengthDTOs": [],
+    "maxElevation": 1823.2,
+    "maxHR": 127.0,
+    "maxSpeed": 2.3420000076293945,
+    "maxTemperature": 27.0,
+    "maxVerticalSpeed": 0.40002441406250006,
+    "messageIndex": 2,
+    "minElevation": 1459.2,
+    "minTemperature": 22.0,
+    "movingDuration": 1649.0,
+    "startLatitude": 49.21556462533772,
+    "startLongitude": 19.834382459521294,
+    "startTimeGMT": "2026-10-10T13:24:42.0"
+   },
+   {
+    "averageHR": 111.0,
+    "averageSpeed": 0.4860000014305115,
+    "averageTemperature": 26.0,
+    "bmrCalories": 0.0,
+    "calories": 0.0,
+    "connectIQMeasurement": [],
+    "distance": 2.27,
+    "duration": 4.666,
+    "elapsedDuration": 4.666,
+    "elevationGain": 0.0,
+    "elevationLoss": 0.0,
+    "endLatitude": 49.2321503162384,
+    "endLongitude": 19.836416244506836,
+    "intensityType": "ACTIVE",
+    "lapIndex": 4,
+    "lengthDTOs": [],
+    "maxElevation": 1460.2,
+    "maxHR": 113.0,
+    "maxSpeed": 0.0,
+    "maxTemperature": 26.0,
+    "maxVerticalSpeed": 0.0,
+    "messageIndex": 3,
+    "minElevation": 1460.2,
+    "minTemperature": 26.0,
+    "movingDuration": 0.0,
+    "startLatitude": 49.2321503162384,
+    "startLongitude": 19.836416244506836,
+    "startTimeGMT": "2026-10-10T14:02:53.0"
+   },
+   {
+    "averageHR": 108.0,
+    "averageMovingSpeed": 1.449453940071665,
+    "averageSpeed": 0.9829999804496765,
+    "averageTemperature": 24.0,
+    "bmrCalories": 26.0,
+    "calories": 85.0,
+    "connectIQMeasurement": [],
+    "distance": 929.1,
+    "duration": 945.407,
+    "elapsedDuration": 945.407,
+    "elevationGain": 2.68,
+    "elevationLoss": 211.04,
+    "endLatitude": 49.23106393776834,
+    "endLongitude": 19.845348419621587,
+    "intensityType": "ACTIVE",
+    "lapIndex": 5,
+    "lengthDTOs": [],
+    "maxElevation": 1461.4,
+    "maxHR": 118.0,
+    "maxSpeed": 2.434999942779541,
+    "maxTemperature": 26.0,
+    "maxVerticalSpeed": 0.300018310546875,
+    "messageIndex": 4,
+    "minElevation": 1249.4,
+    "minTemperature": 23.0,
+    "movingDuration": 641.0,
+    "startLatitude": 49.2321503162384,
+    "startLongitude": 19.836416244506836,
+    "startTimeGMT": "2026-10-10T14:02:58.0"
+   },
+   {
+    "averageHR": 105.0,
+    "averageMovingSpeed": 1.952222188313802,
+    "averageSpeed": 0.2849999964237213,
+    "averageTemperature": 24.0,
+    "bmrCalories": 2.0,
+    "calories": 5.0,
+    "connectIQMeasurement": [],
+    "distance": 17.57,
+    "duration": 61.676,
+    "elapsedDuration": 61.676,
+    "elevationGain": 0.0,
+    "elevationLoss": 2.57,
+    "endLatitude": 49.23105429857969,
+    "endLongitude": 19.845429975539446,
+    "intensityType": "ACTIVE",
+    "lapIndex": 6,
+    "lengthDTOs": [],
+    "maxElevation": 1248.8,
+    "maxHR": 109.0,
+    "maxSpeed": 1.399999976158142,
+    "maxTemperature": 24.0,
+    "maxVerticalSpeed": 0.0,
+    "messageIndex": 5,
+    "minElevation": 1244.8,
+    "minTemperature": 24.0,
+    "movingDuration": 9.0,
+    "startLatitude": 49.23106192611158,
+    "startLongitude": 19.845357723534107,
+    "startTimeGMT": "2026-10-10T14:18:43.0"
+   },
+   {
+    "averageHR": 106.0,
+    "averageMovingSpeed": 1.2908250427246093,
+    "averageSpeed": 1.2339999675750732,
+    "averageTemperature": 24.0,
+    "bmrCalories": 11.0,
+    "calories": 38.0,
+    "connectIQMeasurement": [],
+    "distance": 516.33,
+    "duration": 418.305,
+    "elapsedDuration": 418.305,
+    "elevationGain": 4.67,
+    "elevationLoss": 79.33,
+    "endLatitude": 49.23006573691964,
+    "endLongitude": 19.851828552782536,
+    "intensityType": "ACTIVE",
+    "lapIndex": 7,
+    "lengthDTOs": [],
+    "maxElevation": 1244.2,
+    "maxHR": 118.0,
+    "maxSpeed": 1.5679999589920046,
+    "maxTemperature": 25.0,
+    "maxVerticalSpeed": 0.23999023437500003,
+    "messageIndex": 6,
+    "minElevation": 1170.2,
+    "minTemperature": 24.0,
+    "movingDuration": 400.0,
+    "startLatitude": 49.23105429857969,
+    "startLongitude": 19.845429975539446,
+    "startTimeGMT": "2026-10-10T14:19:45.0"
+   },
+   {
+    "averageHR": 99.0,
+    "averageMovingSpeed": 1.4698934317087404,
+    "averageSpeed": 1.1330000162124634,
+    "averageTemperature": 23.0,
+    "bmrCalories": 244.0,
+    "calories": 840.0,
+    "connectIQMeasurement": [],
+    "distance": 10073.18,
+    "duration": 8890.055,
+    "elapsedDuration": 8890.055,
+    "elevationGain": 97.37,
+    "elevationLoss": 348.32,
+    "endLatitude": 49.27732625976205,
+    "endLongitude": 19.832373904064298,
+    "intensityType": "ACTIVE",
+    "lapIndex": 8,
+    "lengthDTOs": [],
+    "maxElevation": 1173.2,
+    "maxHR": 124.0,
+    "maxSpeed": 2.071000099182129,
+    "maxTemperature": 29.0,
+    "maxVerticalSpeed": 0.26666259765625,
+    "messageIndex": 7,
+    "minElevation": 910.6,
+    "minTemperature": 20.0,
+    "movingDuration": 6853.0,
+    "startLatitude": 49.230063892900944,
+    "startLongitude": 19.851836012676358,
+    "startTimeGMT": "2026-10-10T14:26:43.0"
+   },
+   {
+    "averageHR": 97.0,
+    "averageMovingSpeed": 1.5452826462598708,
+    "averageSpeed": 1.5449999570846558,
+    "averageTemperature": 22.0,
+    "bmrCalories": 27.0,
+    "calories": 80.0,
+    "connectIQMeasurement": [],
+    "distance": 1493.44,
+    "duration": 966.451,
+    "elapsedDuration": 966.451,
+    "elevationGain": 0.0,
+    "elevationLoss": 30.22,
+    "endLatitude": 49.28658390417695,
+    "endLongitude": 19.846543595194817,
+    "intensityType": "ACTIVE",
+    "lapIndex": 9,
+    "lengthDTOs": [],
+    "maxElevation": 921.8,
+    "maxHR": 104.0,
+    "maxSpeed": 1.6799999475479126,
+    "maxTemperature": 22.0,
+    "maxVerticalSpeed": 0.05713762555803571,
+    "messageIndex": 8,
+    "minElevation": 892.2,
+    "minTemperature": 21.0,
+    "movingDuration": 966.451,
+    "startLatitude": 49.277332881465554,
+    "startLongitude": 19.832382956519723,
+    "startTimeGMT": "2026-10-10T16:54:53.0"
+   }
+  ]
+ },
+ "splits": {
+  "activityId": 24677125093,
+  "eventDTOs": [
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-10-10T04:52:22.0",
+    "startTimeGMTDoubleValue": 1791607942000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T04:52:22.0",
+    "startTimeGMTDoubleValue": 1791607942000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-10-10T04:52:23.0",
+    "startTimeGMTDoubleValue": 1791607943000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T11:15:23.0",
+    "startTimeGMTDoubleValue": 1791630923000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T11:15:47.0",
+    "startTimeGMTDoubleValue": 1791630947000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T12:17:26.0",
+    "startTimeGMTDoubleValue": 1791634646000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T12:25:18.0",
+    "startTimeGMTDoubleValue": 1791635118000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T13:26:49.0",
+    "startTimeGMTDoubleValue": 1791638809000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T13:46:20.0",
+    "startTimeGMTDoubleValue": 1791639980000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T14:15:51.0",
+    "startTimeGMTDoubleValue": 1791641751000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T14:17:18.0",
+    "startTimeGMTDoubleValue": 1791641838000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T14:37:39.0",
+    "startTimeGMTDoubleValue": 1791643059000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T14:47:46.0",
+    "startTimeGMTDoubleValue": 1791643666000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T15:03:53.0",
+    "startTimeGMTDoubleValue": 1791644633000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T15:04:30.0",
+    "startTimeGMTDoubleValue": 1791644670000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T16:45:11.0",
+    "startTimeGMTDoubleValue": 1791650711000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 22,
+     "key": "offCourse",
+     "sectionTypeKey": "OFF_COURSE"
+    },
+    "startTimeGMT": "2026-10-10T16:46:05.0",
+    "startTimeGMTDoubleValue": 1791650765000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-10-10T17:11:00.0",
+    "startTimeGMTDoubleValue": 1791652260000.0
+   }
+  ],
+  "lapDTOs": [
+   {
+    "averageHR": 113.0,
+    "averageMovingSpeed": 1.3453332884083327,
+    "averageSpeed": 0.8309999704360962,
+    "averageTemperature": 20.0,
+    "bmrCalories": 546.0,
+    "calories": 2711.0,
+    "connectIQMeasurement": [],
+    "distance": 16532.8,
+    "duration": 19896.859,
+    "elapsedDuration": 19896.859,
+    "elevationGain": 1997.45,
+    "elevationLoss": 762.56,
+    "endLatitude": 49.19923843815923,
+    "endLongitude": 19.820030545815825,
+    "intensityType": "ACTIVE",
+    "lapIndex": 1,
+    "lengthDTOs": [],
+    "maxElevation": 2223.4,
+    "maxHR": 149.0,
+    "maxSpeed": 2.071000099182129,
+    "maxTemperature": 28.0,
+    "maxVerticalSpeed": 2.39990234375,
+    "messageIndex": 0,
+    "minElevation": 972.8,
+    "minTemperature": 14.0,
+    "movingDuration": 12289.0,
+    "startLatitude": 49.261513128876686,
+    "startLongitude": 19.816461112350225,
+    "startTimeGMT": "2026-10-10T04:52:23.0"
+   },
+   {
+    "averageHR": 105.0,
+    "averageMovingSpeed": 1.5655021968799367,
+    "averageSpeed": 0.6399999856948853,
+    "averageTemperature": 22.0,
+    "bmrCalories": 298.0,
+    "calories": 1288.0,
+    "connectIQMeasurement": [],
+    "distance": 6936.74,
+    "duration": 10842.599,
+    "elapsedDuration": 10842.599,
+    "elevationGain": 528.6,
+    "elevationLoss": 913.73,
+    "endLatitude": 49.21555674634874,
+    "endLongitude": 19.834383884444833,
+    "intensityType": "ACTIVE",
+    "lapIndex": 2,
+    "lengthDTOs": [],
+    "maxElevation": 2294.0,
+    "maxHR": 158.0,
+    "maxSpeed": 3.750999927520752,
+    "maxTemperature": 28.0,
+    "maxVerticalSpeed": 1.800048828125,
+    "messageIndex": 1,
+    "minElevation": 1820.0,
+    "minTemperature": 16.0,
+    "movingDuration": 4431.0,
+    "startLatitude": 49.19923910871148,
+    "startLongitude": 19.820022583007812,
+    "startTimeGMT": "2026-10-10T10:24:00.0"
+   },
+   {
+    "averageHR": 114.0,
+    "averageMovingSpeed": 1.3643299146736658,
+    "averageSpeed": 0.9819999933242798,
+    "averageTemperature": 25.0,
+    "bmrCalories": 63.0,
+    "calories": 269.0,
+    "connectIQMeasurement": [],
+    "distance": 2249.78,
+    "duration": 2290.598,
+    "elapsedDuration": 2290.598,
+    "elevationGain": 19.35,
+    "elevationLoss": 382.55,
+    "endLatitude": 49.2321503162384,
+    "endLongitude": 19.836416244506836,
+    "intensityType": "ACTIVE",
+    "lapIndex": 3,
+    "lengthDTOs": [],
+    "maxElevation": 1823.2,
+    "maxHR": 127.0,
+    "maxSpeed": 2.3420000076293945,
+    "maxTemperature": 27.0,
+    "maxVerticalSpeed": 0.40002441406250006,
+    "messageIndex": 2,
+    "minElevation": 1459.2,
+    "minTemperature": 22.0,
+    "movingDuration": 1649.0,
+    "startLatitude": 49.21556462533772,
+    "startLongitude": 19.834382459521294,
+    "startTimeGMT": "2026-10-10T13:24:42.0"
+   },
+   {
+    "averageHR": 111.0,
+    "averageSpeed": 0.4860000014305115,
+    "averageTemperature": 26.0,
+    "bmrCalories": 0.0,
+    "calories": 0.0,
+    "connectIQMeasurement": [],
+    "distance": 2.27,
+    "duration": 4.666,
+    "elapsedDuration": 4.666,
+    "elevationGain": 0.0,
+    "elevationLoss": 0.0,
+    "endLatitude": 49.2321503162384,
+    "endLongitude": 19.836416244506836,
+    "intensityType": "ACTIVE",
+    "lapIndex": 4,
+    "lengthDTOs": [],
+    "maxElevation": 1460.2,
+    "maxHR": 113.0,
+    "maxSpeed": 0.0,
+    "maxTemperature": 26.0,
+    "maxVerticalSpeed": 0.0,
+    "messageIndex": 3,
+    "minElevation": 1460.2,
+    "minTemperature": 26.0,
+    "movingDuration": 0.0,
+    "startLatitude": 49.2321503162384,
+    "startLongitude": 19.836416244506836,
+    "startTimeGMT": "2026-10-10T14:02:53.0"
+   },
+   {
+    "averageHR": 108.0,
+    "averageMovingSpeed": 1.449453940071665,
+    "averageSpeed": 0.9829999804496765,
+    "averageTemperature": 24.0,
+    "bmrCalories": 26.0,
+    "calories": 85.0,
+    "connectIQMeasurement": [],
+    "distance": 929.1,
+    "duration": 945.407,
+    "elapsedDuration": 945.407,
+    "elevationGain": 2.68,
+    "elevationLoss": 211.04,
+    "endLatitude": 49.23106393776834,
+    "endLongitude": 19.845348419621587,
+    "intensityType": "ACTIVE",
+    "lapIndex": 5,
+    "lengthDTOs": [],
+    "maxElevation": 1461.4,
+    "maxHR": 118.0,
+    "maxSpeed": 2.434999942779541,
+    "maxTemperature": 26.0,
+    "maxVerticalSpeed": 0.300018310546875,
+    "messageIndex": 4,
+    "minElevation": 1249.4,
+    "minTemperature": 23.0,
+    "movingDuration": 641.0,
+    "startLatitude": 49.2321503162384,
+    "startLongitude": 19.836416244506836,
+    "startTimeGMT": "2026-10-10T14:02:58.0"
+   },
+   {
+    "averageHR": 105.0,
+    "averageMovingSpeed": 1.952222188313802,
+    "averageSpeed": 0.2849999964237213,
+    "averageTemperature": 24.0,
+    "bmrCalories": 2.0,
+    "calories": 5.0,
+    "connectIQMeasurement": [],
+    "distance": 17.57,
+    "duration": 61.676,
+    "elapsedDuration": 61.676,
+    "elevationGain": 0.0,
+    "elevationLoss": 2.57,
+    "endLatitude": 49.23105429857969,
+    "endLongitude": 19.845429975539446,
+    "intensityType": "ACTIVE",
+    "lapIndex": 6,
+    "lengthDTOs": [],
+    "maxElevation": 1248.8,
+    "maxHR": 109.0,
+    "maxSpeed": 1.399999976158142,
+    "maxTemperature": 24.0,
+    "maxVerticalSpeed": 0.0,
+    "messageIndex": 5,
+    "minElevation": 1244.8,
+    "minTemperature": 24.0,
+    "movingDuration": 9.0,
+    "startLatitude": 49.23106192611158,
+    "startLongitude": 19.845357723534107,
+    "startTimeGMT": "2026-10-10T14:18:43.0"
+   },
+   {
+    "averageHR": 106.0,
+    "averageMovingSpeed": 1.2908250427246093,
+    "averageSpeed": 1.2339999675750732,
+    "averageTemperature": 24.0,
+    "bmrCalories": 11.0,
+    "calories": 38.0,
+    "connectIQMeasurement": [],
+    "distance": 516.33,
+    "duration": 418.305,
+    "elapsedDuration": 418.305,
+    "elevationGain": 4.67,
+    "elevationLoss": 79.33,
+    "endLatitude": 49.23006573691964,
+    "endLongitude": 19.851828552782536,
+    "intensityType": "ACTIVE",
+    "lapIndex": 7,
+    "lengthDTOs": [],
+    "maxElevation": 1244.2,
+    "maxHR": 118.0,
+    "maxSpeed": 1.5679999589920046,
+    "maxTemperature": 25.0,
+    "maxVerticalSpeed": 0.23999023437500003,
+    "messageIndex": 6,
+    "minElevation": 1170.2,
+    "minTemperature": 24.0,
+    "movingDuration": 400.0,
+    "startLatitude": 49.23105429857969,
+    "startLongitude": 19.845429975539446,
+    "startTimeGMT": "2026-10-10T14:19:45.0"
+   },
+   {
+    "averageHR": 99.0,
+    "averageMovingSpeed": 1.4698934317087404,
+    "averageSpeed": 1.1330000162124634,
+    "averageTemperature": 23.0,
+    "bmrCalories": 244.0,
+    "calories": 840.0,
+    "connectIQMeasurement": [],
+    "distance": 10073.18,
+    "duration": 8890.055,
+    "elapsedDuration": 8890.055,
+    "elevationGain": 97.37,
+    "elevationLoss": 348.32,
+    "endLatitude": 49.27732625976205,
+    "endLongitude": 19.832373904064298,
+    "intensityType": "ACTIVE",
+    "lapIndex": 8,
+    "lengthDTOs": [],
+    "maxElevation": 1173.2,
+    "maxHR": 124.0,
+    "maxSpeed": 2.071000099182129,
+    "maxTemperature": 29.0,
+    "maxVerticalSpeed": 0.26666259765625,
+    "messageIndex": 7,
+    "minElevation": 910.6,
+    "minTemperature": 20.0,
+    "movingDuration": 6853.0,
+    "startLatitude": 49.230063892900944,
+    "startLongitude": 19.851836012676358,
+    "startTimeGMT": "2026-10-10T14:26:43.0"
+   },
+   {
+    "averageHR": 97.0,
+    "averageMovingSpeed": 1.5452826462598708,
+    "averageSpeed": 1.5449999570846558,
+    "averageTemperature": 22.0,
+    "bmrCalories": 27.0,
+    "calories": 80.0,
+    "connectIQMeasurement": [],
+    "distance": 1493.44,
+    "duration": 966.451,
+    "elapsedDuration": 966.451,
+    "elevationGain": 0.0,
+    "elevationLoss": 30.22,
+    "endLatitude": 49.28658390417695,
+    "endLongitude": 19.846543595194817,
+    "intensityType": "ACTIVE",
+    "lapIndex": 9,
+    "lengthDTOs": [],
+    "maxElevation": 921.8,
+    "maxHR": 104.0,
+    "maxSpeed": 1.6799999475479126,
+    "maxTemperature": 22.0,
+    "maxVerticalSpeed": 0.05713762555803571,
+    "messageIndex": 8,
+    "minElevation": 892.2,
+    "minTemperature": 21.0,
+    "movingDuration": 966.451,
+    "startLatitude": 49.277332881465554,
+    "startLongitude": 19.832382956519723,
+    "startTimeGMT": "2026-10-10T16:54:53.0"
+   }
+  ]
+ },
+ "summary": {
+  "activityId": 24677125093,
+  "activityName": "Kościelisko Wspinaczka",
+  "activityTrainingLoad": 71.21272277832031,
+  "activityType": {
+   "isHidden": false,
+   "parentTypeId": 4,
+   "restricted": false,
+   "trimmable": true,
+   "typeId": 37,
+   "typeKey": "mountaineering"
+  },
+  "activityUUID": "dff16f56-e28a-45ed-b8d9-1eb69d409994",
+  "aerobicTrainingEffect": 2.9000000953674316,
+  "aerobicTrainingEffectMessage": "MAINTAINING_AEROBIC_BASE_7",
+  "anaerobicTrainingEffect": 0.0,
+  "anaerobicTrainingEffectMessage": "NO_ANAEROBIC_BENEFIT_0",
+  "atpActivity": false,
+  "autoCalcCalories": false,
+  "averageHR": 108.0,
+  "averageRunningCadenceInStepsPerMinute": 46.03125,
+  "averageSpeed": 0.8740000128746034,
+  "avgElevation": 1648.914831403592,
+  "avgStrideLength": 124.45551829122812,
+  "beginTimestamp": 1791607943000,
+  "bmrCalories": 1216.0,
+  "calories": 5317.0,
+  "courseId": 522824154,
+  "decoDive": false,
+  "deviceId": 3417032663,
+  "differenceBodyBattery": -2,
+  "distance": 38751.2109375,
+  "duration": 44316.6171875,
+  "elapsedDuration": 44316.6171875,
+  "elevationCorrected": false,
+  "elevationGain": 2650.119999997318,
+  "elevationLoss": 2730.330000013113,
+  "endLatitude": 49.28658390417695,
+  "endLongitude": 19.846543595194817,
+  "endTimeGMT": "2026-10-10 17:10:59",
+  "eventType": {
+   "sortOrder": 10,
+   "typeId": 9,
+   "typeKey": "uncategorized"
+  },
+  "favorite": false,
+  "hasHeatMap": false,
+  "hasImages": false,
+  "hasIntensityIntervals": false,
+  "hasPolyline": true,
+  "hasSplits": false,
+  "hasVideo": false,
+  "hrTimeInZone_1": 17931.342,
+  "hrTimeInZone_2": 10688.575,
+  "hrTimeInZone_3": 6473.021,
+  "hrTimeInZone_4": 113.002,
+  "hrTimeInZone_5": 0.0,
+  "isAtpActivity": false,
+  "isAutoCalcCalories": false,
+  "isDecoDive": false,
+  "isElevationCorrected": false,
+  "isFavorite": false,
+  "isManualActivity": false,
+  "isPR": false,
+  "isParent": false,
+  "isPurposeful": false,
+  "lapCount": 9,
+  "locationName": "Kościelisko",
+  "manualActivity": false,
+  "manufacturer": "GARMIN",
+  "maxDoubleCadence": 245.0,
+  "maxElevation": 2294.0,
+  "maxHR": 158.0,
+  "maxRunningCadenceInStepsPerMinute": 245.0,
+  "maxSpeed": 3.750999927520752,
+  "maxTemperature": 29.0,
+  "maxVerticalSpeed": 2.39990234375,
+  "minActivityLapDuration": 4.665999889373779,
+  "minElevation": 892.2000122070312,
+  "minTemperature": 14.0,
+  "moderateIntensityMinutes": 313,
+  "movingDuration": 27238.45098876953,
+  "ownerDisplayName": "33b301a7-5ce9-4d3c-a9c2-c2776a5c0af7",
+  "ownerFullName": "Paweł",
+  "ownerId": 107188880,
+  "ownerProfileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/10d9633a-4024-417c-ab09-c2d4c717469c-107188880.png",
+  "ownerProfileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/05c3a781-f3ba-4d2c-9edb-67bba31083a6-107188880.png",
+  "ownerProfileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/3786d826-72ea-488b-9788-bd6891653855-107188880.png",
+  "parent": false,
+  "pr": false,
+  "privacy": {
+   "typeId": 2,
+   "typeKey": "private"
+  },
+  "purposeful": false,
+  "qualifyingDive": false,
+  "splitSummaries": [],
+  "sportTypeId": 16,
+  "startLatitude": 49.261513128876686,
+  "startLongitude": 19.816461112350225,
+  "startTimeGMT": "2026-10-10 04:52:23",
+  "startTimeLocal": "2026-10-10 06:52:23",
+  "steps": 41738,
+  "summarizedDiveInfo": {
+   "summarizedDiveGases": []
+  },
+  "timeZoneId": 124,
+  "trainingEffectLabel": "AEROBIC_BASE",
+  "userPro": false,
+  "userRoles": [
+   "SCOPE_ATP_READ",
+   "SCOPE_COMMUNITY_COURSE_ADMIN_READ",
+   "SCOPE_GCX_KID_WRITE",
+   "SCOPE_DT_ACTIVE_INTELLIGENCE_READ",
+   "SCOPE_COMMUNITY_COURSE_WRITE",
+   "SCOPE_GCX_KID_ADMIN_READ",
+   "SCOPE_CONNECT_WEB_TEMPLATE_RENDER",
+   "SCOPE_ACTIVITY_DETECTION_READ",
+   "SCOPE_OMT_SUBSCRIPTION_ADMIN_READ",
+   "SCOPE_DI_OAUTH_2_MANAGED_STATUS_ADMIN_WRITE",
+   "SCOPE_CONNECT_READ",
+   "SCOPE_GCX_PET_READ",
+   "SCOPE_GOLF_API_READ",
+   "SCOPE_DI_OAUTH_2_DEVICE_REVOCATION_WRITE",
+   "SCOPE_GCX_PET_WRITE",
+   "SCOPE_DI_OAUTH_2_CREATE_DI_USER",
+   "SCOPE_DIVE_API_WRITE",
+   "SCOPE_DIVE_API_READ",
+   "SCOPE_DI_OAUTH_2_CLIENT_READ",
+   "SCOPE_CONNECT_WRITE",
+   "SCOPE_CONNECT_MCT_DAILY_LOG_READ",
+   "SCOPE_CONNECT_API_CREATE_UPDATE_USER",
+   "SCOPE_MESSAGE_GENERATION_READ",
+   "SCOPE_DI_OAUTH_2_CLIENT_REVOCATION_ADMIN",
+   "SCOPE_GCS_RACEINSIGHTS_ADMIN_READ",
+   "SCOPE_GCX_PET_ADMIN_READ",
+   "SCOPE_CONNECT_NON_SOCIAL_SHARED_READ",
+   "SCOPE_DI_OAUTH_2_PRERELEASE_PERMISSIONS_ADMIN_WRITE",
+   "SCOPE_DI_OAUTH_2_TOKEN_ADMIN",
+   "SCOPE_ATP_WRITE",
+   "SCOPE_GCX_KID_READ",
+   "ROLE_CONNECTUSER",
+   "ROLE_FITNESS_USER",
+   "ROLE_WELLNESS_USER",
+   "ROLE_OUTDOOR_USER",
+   "ROLE_GARMIN_USER",
+   "ROLE_GCM_USER",
+   "ROLE_GCW_USER"
+  ],
+  "vigorousIntensityMinutes": 179,
+  "waterEstimated": 6064.0
+ },
+ "weather": {
+  "apparentTemp": 46,
+  "dewPoint": 39,
+  "issueDate": "2026-10-10T06:00:00.000+00:00",
+  "latitude": 49.299998972564936,
+  "longitude": 19.966666996479034,
+  "relativeHumidity": 78,
+  "temp": 46,
+  "weatherStationDTO": {
+   "id": "12625",
+   "name": "",
+   "timezone": null
+  },
+  "weatherTypeDTO": {
+   "desc": "Cloudy",
+   "image": null,
+   "weatherTypePk": null
+  },
+  "windDirection": 0,
+  "windDirectionCompassPoint": "n",
+  "windGust": null,
+  "windSpeed": 0
+ }
+}

@@ -1,0 +1,469 @@
+{
+ "details": {
+  "accessControlRuleDTO": {
+   "typeId": 2,
+   "typeKey": "private"
+  },
+  "activityId": 24261124986,
+  "activityName": "La Paz Wspinaczka",
+  "activityTypeDTO": {
+   "isHidden": false,
+   "parentTypeId": 4,
+   "restricted": false,
+   "trimmable": true,
+   "typeId": 37,
+   "typeKey": "mountaineering"
+  },
+  "activityUUID": {
+   "uuid": "2ecdf9bb-b345-4644-a3a4-9ba8b537bc85"
+  },
+  "eventTypeDTO": {
+   "sortOrder": 10,
+   "typeId": 9,
+   "typeKey": "uncategorized"
+  },
+  "isMultiSportParent": false,
+  "locationName": "La Paz",
+  "metadataDTO": {
+   "activityImages": [],
+   "agentApplicationInstallationId": null,
+   "agentString": null,
+   "associatedCourseId": null,
+   "associatedWorkoutId": null,
+   "autoCalcCalories": false,
+   "calendarEventInfo": null,
+   "childActivityTypes": [],
+   "childIds": [],
+   "deviceApplicationInstallationId": 1008888,
+   "deviceMetaDataDTO": {
+    "deviceId": "3417032663",
+    "deviceTypePk": 36906,
+    "deviceVersionPk": 1008888
+   },
+   "diveNumber": null,
+   "eBikeAssistModeInfoDTOList": null,
+   "eBikeBatteryRemaining": null,
+   "eBikeBatteryUsage": null,
+   "eBikeMaxAssistModes": null,
+   "elevationCorrected": false,
+   "favorite": false,
+   "fileFormat": {
+    "formatId": 7,
+    "formatKey": "fit"
+   },
+   "gcj02": false,
+   "groupRideUUID": null,
+   "hasChartData": true,
+   "hasHeatMap": false,
+   "hasHrTimeInZones": true,
+   "hasIntensityIntervals": false,
+   "hasMultiDayActivities": false,
+   "hasPolyline": true,
+   "hasPowerTimeInZones": false,
+   "hasRunPowerWindData": null,
+   "hasSplits": false,
+   "isAtpActivity": null,
+   "isOriginal": true,
+   "lapCount": 1,
+   "lastUpdateDate": "2026-09-06T15:05:05.0",
+   "manualActivity": false,
+   "manufacturer": "GARMIN",
+   "personalRecord": false,
+   "runPowerWindDataEnabled": null,
+   "sensors": null,
+   "sessionResultType": "ORIGINAL",
+   "trimmed": false,
+   "uploadedDate": "2026-09-06T15:05:05.0",
+   "userInfoDto": {
+    "displayname": "33b301a7-5ce9-4d3c-a9c2-c2776a5c0af7",
+    "fullname": "Paweł",
+    "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/10d9633a-4024-417c-ab09-c2d4c717469c-107188880.png",
+    "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/05c3a781-f3ba-4d2c-9edb-67bba31083a6-107188880.png",
+    "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/3786d826-72ea-488b-9788-bd6891653855-107188880.png",
+    "userPro": false,
+    "userProfilePk": 107188880
+   },
+   "videoUrl": null
+  },
+  "summaryDTO": {
+   "activityTrainingLoad": 27.44183349609375,
+   "aerobicTrainingEffectMessage": "MAINTAINING_AEROBIC_BASE_7",
+   "anaerobicTrainingEffect": 0.0,
+   "anaerobicTrainingEffectMessage": "NO_ANAEROBIC_BENEFIT_0",
+   "averageHR": 116.0,
+   "averageMovingSpeed": 1.0394171565170356,
+   "averageSpeed": 0.4889999926090241,
+   "averageTemperature": 18.0,
+   "avgElevation": 4932.75,
+   "bmrCalories": 133.0,
+   "calories": 724.0,
+   "differenceBodyBattery": -7,
+   "distance": 2371.95,
+   "duration": 4851.494,
+   "elapsedDuration": 4851.494,
+   "elevationGain": 387.07,
+   "elevationLoss": 36.7,
+   "endLatitude": -16.275454871356487,
+   "endLongitude": -68.13738564960659,
+   "maxElevation": 5133.0,
+   "maxHR": 144.0,
+   "maxSpeed": 1.912999987602234,
+   "maxTemperature": 23.0,
+   "maxVerticalSpeed": 0.5,
+   "minActivityLapDuration": 4851.494,
+   "minElevation": 4777.8,
+   "minHR": 93.0,
+   "minTemperature": 13.0,
+   "moderateIntensityMinutes": 46,
+   "movingDuration": 2282.0,
+   "startLatitude": -16.28745909780264,
+   "startLongitude": -68.12969718128443,
+   "startTimeGMT": "2026-09-06T13:31:03.0",
+   "startTimeLocal": "2026-09-06T09:31:03.0",
+   "steps": 946,
+   "trainingEffect": 2.0999999046325684,
+   "trainingEffectLabel": "AEROBIC_BASE",
+   "vigorousIntensityMinutes": 29,
+   "waterEstimated": 634.0
+  },
+  "timeZoneUnitDTO": {
+   "factor": 0.0,
+   "timeZone": "America/Puerto_Rico",
+   "unitId": 127,
+   "unitKey": "America/Puerto_Rico"
+  },
+  "userProfileId": 107188880
+ },
+ "fetched_at": "2026-10-26T21:56:24+00:00",
+ "hr_zones": [
+  {
+   "secsInZone": 1489.668,
+   "zoneLowBoundary": 93,
+   "zoneNumber": 1
+  },
+  {
+   "secsInZone": 3272.003,
+   "zoneLowBoundary": 112,
+   "zoneNumber": 2
+  },
+  {
+   "secsInZone": 90.0,
+   "zoneLowBoundary": 132,
+   "zoneNumber": 3
+  },
+  {
+   "secsInZone": 0.0,
+   "zoneLowBoundary": 149,
+   "zoneNumber": 4
+  },
+  {
+   "secsInZone": 0.0,
+   "zoneLowBoundary": 170,
+   "zoneNumber": 5
+  }
+ ],
+ "laps": {
+  "activityId": 24261124986,
+  "eventDTOs": [
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-06T13:31:02.0",
+    "startTimeGMTDoubleValue": 1788701462000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-06T13:31:03.0",
+    "startTimeGMTDoubleValue": 1788701463000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-06T14:51:55.0",
+    "startTimeGMTDoubleValue": 1788706315000.0
+   }
+  ],
+  "lapDTOs": [
+   {
+    "averageHR": 116.0,
+    "averageMovingSpeed": 1.0394171565170356,
+    "averageSpeed": 0.4889999926090241,
+    "averageTemperature": 18.0,
+    "bmrCalories": 133.0,
+    "calories": 724.0,
+    "connectIQMeasurement": [],
+    "distance": 2371.95,
+    "duration": 4851.494,
+    "elapsedDuration": 4851.494,
+    "elevationGain": 387.07,
+    "elevationLoss": 36.7,
+    "endLatitude": -16.275454871356487,
+    "endLongitude": -68.13738564960659,
+    "intensityType": "ACTIVE",
+    "lapIndex": 1,
+    "lengthDTOs": [],
+    "maxElevation": 5133.0,
+    "maxHR": 144.0,
+    "maxSpeed": 1.912999987602234,
+    "maxTemperature": 23.0,
+    "maxVerticalSpeed": 0.5,
+    "messageIndex": 0,
+    "minElevation": 4777.8,
+    "minTemperature": 13.0,
+    "movingDuration": 2282.0,
+    "startLatitude": -16.28745909780264,
+    "startLongitude": -68.12969718128443,
+    "startTimeGMT": "2026-09-06T13:31:03.0"
+   }
+  ]
+ },
+ "splits": {
+  "activityId": 24261124986,
+  "eventDTOs": [
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-06T13:31:02.0",
+    "startTimeGMTDoubleValue": 1788701462000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-06T13:31:03.0",
+    "startTimeGMTDoubleValue": 1788701463000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-06T14:51:55.0",
+    "startTimeGMTDoubleValue": 1788706315000.0
+   }
+  ],
+  "lapDTOs": [
+   {
+    "averageHR": 116.0,
+    "averageMovingSpeed": 1.0394171565170356,
+    "averageSpeed": 0.4889999926090241,
+    "averageTemperature": 18.0,
+    "bmrCalories": 133.0,
+    "calories": 724.0,
+    "connectIQMeasurement": [],
+    "distance": 2371.95,
+    "duration": 4851.494,
+    "elapsedDuration": 4851.494,
+    "elevationGain": 387.07,
+    "elevationLoss": 36.7,
+    "endLatitude": -16.275454871356487,
+    "endLongitude": -68.13738564960659,
+    "intensityType": "ACTIVE",
+    "lapIndex": 1,
+    "lengthDTOs": [],
+    "maxElevation": 5133.0,
+    "maxHR": 144.0,
+    "maxSpeed": 1.912999987602234,
+    "maxTemperature": 23.0,
+    "maxVerticalSpeed": 0.5,
+    "messageIndex": 0,
+    "minElevation": 4777.8,
+    "minTemperature": 13.0,
+    "movingDuration": 2282.0,
+    "startLatitude": -16.28745909780264,
+    "startLongitude": -68.12969718128443,
+    "startTimeGMT": "2026-09-06T13:31:03.0"
+   }
+  ]
+ },
+ "summary": {
+  "activityId": 24261124986,
+  "activityName": "La Paz Wspinaczka",
+  "activityTrainingLoad": 27.44183349609375,
+  "activityType": {
+   "isHidden": false,
+   "parentTypeId": 4,
+   "restricted": false,
+   "trimmable": true,
+   "typeId": 37,
+   "typeKey": "mountaineering"
+  },
+  "activityUUID": "2ecdf9bb-b345-4644-a3a4-9ba8b537bc85",
+  "aerobicTrainingEffect": 2.0999999046325684,
+  "aerobicTrainingEffectMessage": "MAINTAINING_AEROBIC_BASE_7",
+  "anaerobicTrainingEffect": 0.0,
+  "anaerobicTrainingEffectMessage": "NO_ANAEROBIC_BENEFIT_0",
+  "atpActivity": false,
+  "autoCalcCalories": false,
+  "averageHR": 116.0,
+  "averageRunningCadenceInStepsPerMinute": 4.875,
+  "averageSpeed": 0.4889999926090241,
+  "avgElevation": 4932.747772845766,
+  "avgStrideLength": 601.7368942861049,
+  "beginTimestamp": 1788701463000,
+  "bmrCalories": 133.0,
+  "calories": 724.0,
+  "decoDive": false,
+  "deviceId": 3417032663,
+  "differenceBodyBattery": -7,
+  "distance": 2371.949951171875,
+  "duration": 4851.494140625,
+  "elapsedDuration": 4851.494140625,
+  "elevationCorrected": false,
+  "elevationGain": 387.070000000298,
+  "elevationLoss": 36.69999998807907,
+  "endLatitude": -16.275454871356487,
+  "endLongitude": -68.13738564960659,
+  "endTimeGMT": "2026-09-06 14:51:54",
+  "eventType": {
+   "sortOrder": 10,
+   "typeId": 9,
+   "typeKey": "uncategorized"
+  },
+  "favorite": false,
+  "hasHeatMap": false,
+  "hasImages": false,
+  "hasIntensityIntervals": false,
+  "hasPolyline": true,
+  "hasSplits": false,
+  "hasVideo": false,
+  "hrTimeInZone_1": 1489.668,
+  "hrTimeInZone_2": 3272.003,
+  "hrTimeInZone_3": 90.0,
+  "hrTimeInZone_4": 0.0,
+  "hrTimeInZone_5": 0.0,
+  "isAtpActivity": false,
+  "isAutoCalcCalories": false,
+  "isDecoDive": false,
+  "isElevationCorrected": false,
+  "isFavorite": false,
+  "isManualActivity": false,
+  "isPR": false,
+  "isParent": false,
+  "isPurposeful": false,
+  "lapCount": 1,
+  "locationName": "La Paz",
+  "manualActivity": false,
+  "manufacturer": "GARMIN",
+  "maxDoubleCadence": 158.0,
+  "maxElevation": 5133.0,
+  "maxHR": 144.0,
+  "maxRunningCadenceInStepsPerMinute": 158.0,
+  "maxSpeed": 1.912999987602234,
+  "maxTemperature": 23.0,
+  "maxVerticalSpeed": 0.5,
+  "minActivityLapDuration": 4851.494140625,
+  "minElevation": 4777.7998046875,
+  "minTemperature": 13.0,
+  "moderateIntensityMinutes": 46,
+  "movingDuration": 2282.0,
+  "ownerDisplayName": "33b301a7-5ce9-4d3c-a9c2-c2776a5c0af7",
+  "ownerFullName": "Paweł",
+  "ownerId": 107188880,
+  "ownerProfileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/10d9633a-4024-417c-ab09-c2d4c717469c-107188880.png",
+  "ownerProfileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/05c3a781-f3ba-4d2c-9edb-67bba31083a6-107188880.png",
+  "ownerProfileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/3786d826-72ea-488b-9788-bd6891653855-107188880.png",
+  "parent": false,
+  "pr": false,
+  "privacy": {
+   "typeId": 2,
+   "typeKey": "private"
+  },
+  "purposeful": false,
+  "qualifyingDive": false,
+  "splitSummaries": [],
+  "sportTypeId": 16,
+  "startLatitude": -16.28745909780264,
+  "startLongitude": -68.12969718128443,
+  "startTimeGMT": "2026-09-06 13:31:03",
+  "startTimeLocal": "2026-09-06 09:31:03",
+  "steps": 946,
+  "summarizedDiveInfo": {
+   "summarizedDiveGases": []
+  },
+  "timeZoneId": 127,
+  "trainingEffectLabel": "AEROBIC_BASE",
+  "userPro": false,
+  "userRoles": [
+   "SCOPE_ATP_READ",
+   "SCOPE_COMMUNITY_COURSE_ADMIN_READ",
+   "SCOPE_GCX_KID_WRITE",
+   "SCOPE_DT_ACTIVE_INTELLIGENCE_READ",
+   "SCOPE_COMMUNITY_COURSE_WRITE",
+   "SCOPE_GCX_KID_ADMIN_READ",
+   "SCOPE_CONNECT_WEB_TEMPLATE_RENDER",
+   "SCOPE_ACTIVITY_DETECTION_READ",
+   "SCOPE_OMT_SUBSCRIPTION_ADMIN_READ",
+   "SCOPE_DI_OAUTH_2_MANAGED_STATUS_ADMIN_WRITE",
+   "SCOPE_CONNECT_READ",
+   "SCOPE_GCX_PET_READ",
+   "SCOPE_GOLF_API_READ",
+   "SCOPE_DI_OAUTH_2_DEVICE_REVOCATION_WRITE",
+   "SCOPE_GCX_PET_WRITE",
+   "SCOPE_DI_OAUTH_2_CREATE_DI_USER",
+   "SCOPE_DIVE_API_WRITE",
+   "SCOPE_DIVE_API_READ",
+   "SCOPE_DI_OAUTH_2_CLIENT_READ",
+   "SCOPE_CONNECT_WRITE",
+   "SCOPE_CONNECT_MCT_DAILY_LOG_READ",
+   "SCOPE_CONNECT_API_CREATE_UPDATE_USER",
+   "SCOPE_MESSAGE_GENERATION_READ",
+   "SCOPE_DI_OAUTH_2_CLIENT_REVOCATION_ADMIN",
+   "SCOPE_GCS_RACEINSIGHTS_ADMIN_READ",
+   "SCOPE_GCX_PET_ADMIN_READ",
+   "SCOPE_CONNECT_NON_SOCIAL_SHARED_READ",
+   "SCOPE_DI_OAUTH_2_PRERELEASE_PERMISSIONS_ADMIN_WRITE",
+   "SCOPE_DI_OAUTH_2_TOKEN_ADMIN",
+   "SCOPE_ATP_WRITE",
+   "SCOPE_GCX_KID_READ",
+   "ROLE_CONNECTUSER",
+   "ROLE_FITNESS_USER",
+   "ROLE_WELLNESS_USER",
+   "ROLE_OUTDOOR_USER",
+   "ROLE_GARMIN_USER",
+   "ROLE_GCM_USER",
+   "ROLE_GCW_USER"
+  ],
+  "vigorousIntensityMinutes": 29,
+  "waterEstimated": 634.0
+ },
+ "weather": {
+  "apparentTemp": 46,
+  "dewPoint": 41,
+  "issueDate": "2026-09-06T14:00:00.000+00:00",
+  "latitude": -16.512492997571826,
+  "longitude": -68.19221494719386,
+  "relativeHumidity": 76,
+  "temp": 48,
+  "weatherStationDTO": {
+   "id": "SLLP",
+   "name": "La Paz / Alto",
+   "timezone": null
+  },
+  "weatherTypeDTO": {
+   "desc": "Mostly Cloudy",
+   "image": null,
+   "weatherTypePk": null
+  },
+  "windDirection": 90,
+  "windDirectionCompassPoint": "e",
+  "windGust": null,
+  "windSpeed": 6
+ }
+}

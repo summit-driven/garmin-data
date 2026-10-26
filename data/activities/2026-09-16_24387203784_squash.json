@@ -1,0 +1,486 @@
+{
+ "details": {
+  "accessControlRuleDTO": {
+   "typeId": 2,
+   "typeKey": "private"
+  },
+  "activityId": 24387203784,
+  "activityName": "Squash",
+  "activityTypeDTO": {
+   "isHidden": false,
+   "parentTypeId": 219,
+   "restricted": false,
+   "trimmable": true,
+   "typeId": 223,
+   "typeKey": "squash"
+  },
+  "activityUUID": {
+   "uuid": "8e8b30d1-6519-4761-8795-8d45d92b722d"
+  },
+  "eventTypeDTO": {
+   "sortOrder": 10,
+   "typeId": 9,
+   "typeKey": "uncategorized"
+  },
+  "isMultiSportParent": false,
+  "metadataDTO": {
+   "activityImages": [],
+   "agentApplicationInstallationId": null,
+   "agentString": null,
+   "associatedCourseId": null,
+   "associatedWorkoutId": null,
+   "autoCalcCalories": false,
+   "calendarEventInfo": null,
+   "childActivityTypes": [],
+   "childIds": [],
+   "deviceApplicationInstallationId": 1017382,
+   "deviceMetaDataDTO": {
+    "deviceId": "3417032663",
+    "deviceTypePk": 36906,
+    "deviceVersionPk": 1017382
+   },
+   "diveNumber": null,
+   "eBikeAssistModeInfoDTOList": null,
+   "eBikeBatteryRemaining": null,
+   "eBikeBatteryUsage": null,
+   "eBikeMaxAssistModes": null,
+   "elevationCorrected": false,
+   "favorite": false,
+   "fileFormat": {
+    "formatId": 7,
+    "formatKey": "fit"
+   },
+   "gcj02": false,
+   "groupRideUUID": null,
+   "hasChartData": true,
+   "hasHeatMap": false,
+   "hasHrTimeInZones": true,
+   "hasIntensityIntervals": false,
+   "hasMultiDayActivities": false,
+   "hasPolyline": false,
+   "hasPowerTimeInZones": false,
+   "hasRunPowerWindData": null,
+   "hasSplits": false,
+   "isAtpActivity": null,
+   "isOriginal": true,
+   "lapCount": 3,
+   "lastUpdateDate": "2026-09-16T18:04:03.0",
+   "manualActivity": false,
+   "manufacturer": "GARMIN",
+   "personalRecord": false,
+   "runPowerWindDataEnabled": null,
+   "sensors": null,
+   "sessionResultType": "ORIGINAL",
+   "trimmed": false,
+   "uploadedDate": "2026-09-16T18:04:03.0",
+   "userInfoDto": {
+    "displayname": "33b301a7-5ce9-4d3c-a9c2-c2776a5c0af7",
+    "fullname": "Paweł",
+    "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/10d9633a-4024-417c-ab09-c2d4c717469c-107188880.png",
+    "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/05c3a781-f3ba-4d2c-9edb-67bba31083a6-107188880.png",
+    "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/3786d826-72ea-488b-9788-bd6891653855-107188880.png",
+    "userPro": false,
+    "userProfilePk": 107188880
+   },
+   "videoUrl": null
+  },
+  "summaryDTO": {
+   "activityTrainingLoad": 188.55596923828125,
+   "aerobicTrainingEffectMessage": "HIGHLY_IMPACTING_TEMPO_23",
+   "anaerobicTrainingEffect": 2.5,
+   "anaerobicTrainingEffectMessage": "MAINTAINING_ANAEROBIC_BASE_1",
+   "averageHR": 130.0,
+   "averageMovingSpeed": 1.3210285041905656,
+   "averageSpeed": 0.09799999743700029,
+   "bmrCalories": 235.0,
+   "calories": 1633.0,
+   "differenceBodyBattery": -2,
+   "distance": 834.89,
+   "duration": 8554.759,
+   "elapsedDuration": 8554.759,
+   "maxHR": 174.0,
+   "maxSpeed": 4.61899995803833,
+   "minActivityLapDuration": 136.116,
+   "minHR": 73.0,
+   "moderateIntensityMinutes": 21,
+   "movingDuration": 632.0,
+   "startTimeGMT": "2026-09-16T15:39:44.0",
+   "startTimeLocal": "2026-09-16T17:39:44.0",
+   "steps": 5852,
+   "trainingEffect": 4.099999904632568,
+   "trainingEffectLabel": "TEMPO",
+   "vigorousIntensityMinutes": 86,
+   "waterEstimated": 1957.0
+  },
+  "timeZoneUnitDTO": {
+   "factor": 0.0,
+   "timeZone": "Europe/Paris",
+   "unitId": 124,
+   "unitKey": "Europe/Paris"
+  },
+  "userProfileId": 107188880
+ },
+ "fetched_at": "2026-10-26T21:56:15+00:00",
+ "hr_zones": [
+  {
+   "secsInZone": 1263.84,
+   "zoneLowBoundary": 93,
+   "zoneNumber": 1
+  },
+  {
+   "secsInZone": 1858.105,
+   "zoneLowBoundary": 112,
+   "zoneNumber": 2
+  },
+  {
+   "secsInZone": 1403.049,
+   "zoneLowBoundary": 132,
+   "zoneNumber": 3
+  },
+  {
+   "secsInZone": 2645.035,
+   "zoneLowBoundary": 149,
+   "zoneNumber": 4
+  },
+  {
+   "secsInZone": 240.997,
+   "zoneLowBoundary": 170,
+   "zoneNumber": 5
+  }
+ ],
+ "laps": {
+  "activityId": 24387203784,
+  "eventDTOs": [
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-16T15:39:43.0",
+    "startTimeGMTDoubleValue": 1789573183000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-16T15:39:44.0",
+    "startTimeGMTDoubleValue": 1789573184000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-16T18:02:19.0",
+    "startTimeGMTDoubleValue": 1789581739000.0
+   }
+  ],
+  "lapDTOs": [
+   {
+    "averageHR": 115.0,
+    "averageMovingSpeed": 0.29249998927116394,
+    "averageSpeed": 0.03400000184774399,
+    "bmrCalories": 4.0,
+    "calories": 26.0,
+    "connectIQMeasurement": [],
+    "distance": 4.68,
+    "duration": 136.116,
+    "elapsedDuration": 136.116,
+    "intensityType": "ACTIVE",
+    "lapIndex": 1,
+    "lengthDTOs": [],
+    "maxHR": 128.0,
+    "maxSpeed": 1.0449999570846558,
+    "messageIndex": 0,
+    "movingDuration": 16.0,
+    "startTimeGMT": "2026-09-16T15:39:44.0"
+   },
+   {
+    "averageHR": 107.0,
+    "averageMovingSpeed": 1.6245423397775427,
+    "averageSpeed": 0.14499999582767487,
+    "bmrCalories": 90.0,
+    "calories": 441.0,
+    "connectIQMeasurement": [],
+    "distance": 479.24,
+    "duration": 3296.732,
+    "elapsedDuration": 3296.732,
+    "intensityType": "ACTIVE",
+    "lapIndex": 2,
+    "lengthDTOs": [],
+    "maxHR": 159.0,
+    "maxSpeed": 4.61899995803833,
+    "messageIndex": 1,
+    "movingDuration": 295.0,
+    "startTimeGMT": "2026-09-16T15:42:00.0"
+   },
+   {
+    "averageHR": 145.0,
+    "averageMovingSpeed": 1.093364489784122,
+    "averageSpeed": 0.0689999982714653,
+    "bmrCalories": 141.0,
+    "calories": 1166.0,
+    "connectIQMeasurement": [],
+    "distance": 350.97,
+    "duration": 5121.911,
+    "elapsedDuration": 5121.911,
+    "intensityType": "ACTIVE",
+    "lapIndex": 3,
+    "lengthDTOs": [],
+    "maxHR": 174.0,
+    "maxSpeed": 3.5460000038146977,
+    "messageIndex": 2,
+    "movingDuration": 321.0,
+    "startTimeGMT": "2026-09-16T16:36:56.0"
+   }
+  ]
+ },
+ "splits": {
+  "activityId": 24387203784,
+  "eventDTOs": [
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-16T15:39:43.0",
+    "startTimeGMTDoubleValue": 1789573183000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-16T15:39:44.0",
+    "startTimeGMTDoubleValue": 1789573184000.0
+   },
+   {
+    "sectionTypeDTO": {
+     "id": 4,
+     "key": "timerTrigger",
+     "sectionTypeKey": "TIMER_TRIGGER"
+    },
+    "startTimeGMT": "2026-09-16T18:02:19.0",
+    "startTimeGMTDoubleValue": 1789581739000.0
+   }
+  ],
+  "lapDTOs": [
+   {
+    "averageHR": 115.0,
+    "averageMovingSpeed": 0.29249998927116394,
+    "averageSpeed": 0.03400000184774399,
+    "bmrCalories": 4.0,
+    "calories": 26.0,
+    "connectIQMeasurement": [],
+    "distance": 4.68,
+    "duration": 136.116,
+    "elapsedDuration": 136.116,
+    "intensityType": "ACTIVE",
+    "lapIndex": 1,
+    "lengthDTOs": [],
+    "maxHR": 128.0,
+    "maxSpeed": 1.0449999570846558,
+    "messageIndex": 0,
+    "movingDuration": 16.0,
+    "startTimeGMT": "2026-09-16T15:39:44.0"
+   },
+   {
+    "averageHR": 107.0,
+    "averageMovingSpeed": 1.6245423397775427,
+    "averageSpeed": 0.14499999582767487,
+    "bmrCalories": 90.0,
+    "calories": 441.0,
+    "connectIQMeasurement": [],
+    "distance": 479.24,
+    "duration": 3296.732,
+    "elapsedDuration": 3296.732,
+    "intensityType": "ACTIVE",
+    "lapIndex": 2,
+    "lengthDTOs": [],
+    "maxHR": 159.0,
+    "maxSpeed": 4.61899995803833,
+    "messageIndex": 1,
+    "movingDuration": 295.0,
+    "startTimeGMT": "2026-09-16T15:42:00.0"
+   },
+   {
+    "averageHR": 145.0,
+    "averageMovingSpeed": 1.093364489784122,
+    "averageSpeed": 0.0689999982714653,
+    "bmrCalories": 141.0,
+    "calories": 1166.0,
+    "connectIQMeasurement": [],
+    "distance": 350.97,
+    "duration": 5121.911,
+    "elapsedDuration": 5121.911,
+    "intensityType": "ACTIVE",
+    "lapIndex": 3,
+    "lengthDTOs": [],
+    "maxHR": 174.0,
+    "maxSpeed": 3.5460000038146977,
+    "messageIndex": 2,
+    "movingDuration": 321.0,
+    "startTimeGMT": "2026-09-16T16:36:56.0"
+   }
+  ]
+ },
+ "summary": {
+  "activityId": 24387203784,
+  "activityName": "Squash",
+  "activityTrainingLoad": 188.55596923828125,
+  "activityType": {
+   "isHidden": false,
+   "parentTypeId": 219,
+   "restricted": false,
+   "trimmable": true,
+   "typeId": 223,
+   "typeKey": "squash"
+  },
+  "activityUUID": "8e8b30d1-6519-4761-8795-8d45d92b722d",
+  "aerobicTrainingEffect": 4.099999904632568,
+  "aerobicTrainingEffectMessage": "HIGHLY_IMPACTING_TEMPO_23",
+  "anaerobicTrainingEffect": 2.5,
+  "anaerobicTrainingEffectMessage": "MAINTAINING_ANAEROBIC_BASE_1",
+  "atpActivity": false,
+  "autoCalcCalories": false,
+  "averageHR": 130.0,
+  "averageRunningCadenceInStepsPerMinute": 15.59375,
+  "averageSpeed": 0.09799999743700029,
+  "avgStrideLength": 36.28127206715245,
+  "beginTimestamp": 1789573184000,
+  "bmrCalories": 235.0,
+  "calories": 1633.0,
+  "decoDive": false,
+  "deviceId": 3417032663,
+  "differenceBodyBattery": -2,
+  "distance": 834.8900146484375,
+  "duration": 8554.7587890625,
+  "elapsedDuration": 8554.7587890625,
+  "elevationCorrected": false,
+  "endTimeGMT": "2026-09-16 18:02:18",
+  "eventType": {
+   "sortOrder": 10,
+   "typeId": 9,
+   "typeKey": "uncategorized"
+  },
+  "favorite": false,
+  "hasHeatMap": false,
+  "hasImages": false,
+  "hasIntensityIntervals": false,
+  "hasPolyline": false,
+  "hasSplits": false,
+  "hasVideo": false,
+  "hrTimeInZone_1": 1263.84,
+  "hrTimeInZone_2": 1858.105,
+  "hrTimeInZone_3": 1403.049,
+  "hrTimeInZone_4": 2645.035,
+  "hrTimeInZone_5": 240.997,
+  "isAtpActivity": false,
+  "isAutoCalcCalories": false,
+  "isDecoDive": false,
+  "isElevationCorrected": false,
+  "isFavorite": false,
+  "isManualActivity": false,
+  "isPR": false,
+  "isParent": false,
+  "isPurposeful": false,
+  "lapCount": 3,
+  "manualActivity": false,
+  "manufacturer": "GARMIN",
+  "maxDoubleCadence": 245.0,
+  "maxHR": 174.0,
+  "maxRunningCadenceInStepsPerMinute": 245.0,
+  "maxSpeed": 4.61899995803833,
+  "minActivityLapDuration": 136.11599731445312,
+  "moderateIntensityMinutes": 21,
+  "movingDuration": 632.0,
+  "ownerDisplayName": "33b301a7-5ce9-4d3c-a9c2-c2776a5c0af7",
+  "ownerFullName": "Paweł",
+  "ownerId": 107188880,
+  "ownerProfileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/10d9633a-4024-417c-ab09-c2d4c717469c-107188880.png",
+  "ownerProfileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/05c3a781-f3ba-4d2c-9edb-67bba31083a6-107188880.png",
+  "ownerProfileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/3786d826-72ea-488b-9788-bd6891653855-107188880.png",
+  "parent": false,
+  "pr": false,
+  "privacy": {
+   "typeId": 2,
+   "typeKey": "private"
+  },
+  "purposeful": false,
+  "qualifyingDive": false,
+  "splitSummaries": [],
+  "sportTypeId": 64,
+  "startTimeGMT": "2026-09-16 15:39:44",
+  "startTimeLocal": "2026-09-16 17:39:44",
+  "steps": 5852,
+  "summarizedDiveInfo": {
+   "summarizedDiveGases": []
+  },
+  "timeZoneId": 124,
+  "trainingEffectLabel": "TEMPO",
+  "userPro": false,
+  "userRoles": [
+   "SCOPE_ATP_READ",
+   "SCOPE_COMMUNITY_COURSE_ADMIN_READ",
+   "SCOPE_GCX_KID_WRITE",
+   "SCOPE_DT_ACTIVE_INTELLIGENCE_READ",
+   "SCOPE_COMMUNITY_COURSE_WRITE",
+   "SCOPE_GCX_KID_ADMIN_READ",
+   "SCOPE_CONNECT_WEB_TEMPLATE_RENDER",
+   "SCOPE_ACTIVITY_DETECTION_READ",
+   "SCOPE_OMT_SUBSCRIPTION_ADMIN_READ",
+   "SCOPE_DI_OAUTH_2_MANAGED_STATUS_ADMIN_WRITE",
+   "SCOPE_CONNECT_READ",
+   "SCOPE_GCX_PET_READ",
+   "SCOPE_GOLF_API_READ",
+   "SCOPE_DI_OAUTH_2_DEVICE_REVOCATION_WRITE",
+   "SCOPE_GCX_PET_WRITE",
+   "SCOPE_DI_OAUTH_2_CREATE_DI_USER",
+   "SCOPE_DIVE_API_WRITE",
+   "SCOPE_DIVE_API_READ",
+   "SCOPE_DI_OAUTH_2_CLIENT_READ",
+   "SCOPE_CONNECT_WRITE",
+   "SCOPE_CONNECT_MCT_DAILY_LOG_READ",
+   "SCOPE_CONNECT_API_CREATE_UPDATE_USER",
+   "SCOPE_MESSAGE_GENERATION_READ",
+   "SCOPE_DI_OAUTH_2_CLIENT_REVOCATION_ADMIN",
+   "SCOPE_GCS_RACEINSIGHTS_ADMIN_READ",
+   "SCOPE_GCX_PET_ADMIN_READ",
+   "SCOPE_CONNECT_NON_SOCIAL_SHARED_READ",
+   "SCOPE_DI_OAUTH_2_PRERELEASE_PERMISSIONS_ADMIN_WRITE",
+   "SCOPE_DI_OAUTH_2_TOKEN_ADMIN",
+   "SCOPE_ATP_WRITE",
+   "SCOPE_GCX_KID_READ",
+   "ROLE_CONNECTUSER",
+   "ROLE_FITNESS_USER",
+   "ROLE_WELLNESS_USER",
+   "ROLE_OUTDOOR_USER",
+   "ROLE_GARMIN_USER",
+   "ROLE_GCM_USER",
+   "ROLE_GCW_USER"
+  ],
+  "vigorousIntensityMinutes": 86,
+  "waterEstimated": 1957.0
+ },
+ "weather": {
+  "apparentTemp": null,
+  "dewPoint": null,
+  "issueDate": null,
+  "latitude": 0.0,
+  "longitude": 0.0,
+  "relativeHumidity": null,
+  "temp": null,
+  "weatherStationDTO": null,
+  "weatherTypeDTO": null,
+  "windDirection": null,
+  "windDirectionCompassPoint": null,
+  "windGust": null,
+  "windSpeed": null
+ }
+}

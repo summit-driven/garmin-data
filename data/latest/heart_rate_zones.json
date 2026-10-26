@@ -1,0 +1,16 @@
+[
+ {
+  "changeState": "UNCHANGED",
+  "lactateThresholdHeartRateUsed": 164,
+  "maxHeartRateUsed": 189,
+  "restingHeartRateUsed": null,
+  "restingHrAutoUpdateUsed": false,
+  "sport": "DEFAULT",
+  "trainingMethod": "HR_MAX",
+  "zone1Floor": 93,
+  "zone2Floor": 112,
+  "zone3Floor": 132,
+  "zone4Floor": 149,
+  "zone5Floor": 170
+ }
+]
