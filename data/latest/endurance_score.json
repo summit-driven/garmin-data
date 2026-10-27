@@ -2,7 +2,7 @@
  "avg": 6330,
  "endDate": "2026-10-27",
  "enduranceScoreDTO": {
-  "calendarDate": "2026-10-26",
+  "calendarDate": "2026-10-27",
   "classification": 4,
   "classificationLowerLimitElite": 8800,
   "classificationLowerLimitExpert": 7300,
@@ -36,7 +36,7 @@
   "feedbackPhrase": 61,
   "gaugeLowerLimit": 3570,
   "gaugeUpperLimit": 10560,
-  "overallScore": 6698,
+  "overallScore": 6683,
   "primaryTrainingDevice": true,
   "userProfilePK": 107188880
  },
@@ -1417,26 +1417,26 @@
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 57.716663,
+     "contribution": 57.41,
      "group": null
     },
     {
      "activityTypeId": 37,
-     "contribution": 34.121666,
+     "contribution": 33.755714,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 8.155,
+     "contribution": 8.828571,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 0.0066666664,
+     "contribution": 0.0057142857,
      "group": 8
     }
    ],
-   "groupAverage": 6710,
+   "groupAverage": 6706,
    "groupMax": 6737
   }
  },

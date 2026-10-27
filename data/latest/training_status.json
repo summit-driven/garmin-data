@@ -1,7 +1,105 @@
 {
  "heatAltitudeAcclimationDTO": null,
- "mostRecentTrainingLoadBalance": null,
- "mostRecentTrainingStatus": null,
- "mostRecentVO2Max": null,
+ "mostRecentTrainingLoadBalance": {
+  "metricsTrainingLoadBalanceDTOMap": {
+   "3417032663": {
+    "calendarDate": "2026-10-27",
+    "deviceId": 3417032663,
+    "monthlyLoadAerobicHigh": 524.76636,
+    "monthlyLoadAerobicHighTargetMax": 806,
+    "monthlyLoadAerobicHighTargetMin": 406,
+    "monthlyLoadAerobicLow": 792.3315,
+    "monthlyLoadAerobicLowTargetMax": 729,
+    "monthlyLoadAerobicLowTargetMin": 328,
+    "monthlyLoadAnaerobic": 183.1942,
+    "monthlyLoadAnaerobicTargetMax": 400,
+    "monthlyLoadAnaerobicTargetMin": 133,
+    "primaryTrainingDevice": true,
+    "trainingBalanceFeedbackPhrase": "AEROBIC_LOW_FOCUS"
+   }
+  },
+  "recordedDevices": [
+   {
+    "category": 0,
+    "deviceId": 3417032663,
+    "deviceName": "fenix 7 Solar",
+    "imageURL": "https://res.garmin.com/en/products/010-02540-11/v/c1_01_md-07b2f358-9ecc-4edb-a299-e910d63559b8.png"
+   }
+  ],
+  "userId": 107188880
+ },
+ "mostRecentTrainingStatus": {
+  "lastPrimarySyncDate": "2026-10-27",
+  "latestTrainingStatusData": {
+   "3417032663": {
+    "acuteTrainingLoadDTO": {
+     "acwrPercent": 57,
+     "acwrStatus": "OPTIMAL",
+     "acwrStatusFeedback": "FEEDBACK_3",
+     "dailyAcuteChronicWorkloadRatio": 1.3,
+     "dailyTrainingLoadAcute": 521,
+     "dailyTrainingLoadChronic": 399,
+     "maxTrainingLoadChronic": 598.5,
+     "minTrainingLoadChronic": 319.20000000000005
+    },
+    "calendarDate": "2026-10-27",
+    "deviceId": 3417032663,
+    "fitnessTrend": 1,
+    "fitnessTrendSport": "RUNNING",
+    "loadLevelTrend": null,
+    "loadTunnelMax": null,
+    "loadTunnelMin": null,
+    "primaryTrainingDevice": true,
+    "sinceDate": "2026-10-25",
+    "sport": "RUNNING",
+    "subSport": "GENERIC",
+    "timestamp": 1793083263000,
+    "trainingPaused": false,
+    "trainingStatus": 2,
+    "trainingStatusFeedbackPhrase": "UNPRODUCTIVE_5",
+    "weeklyTrainingLoad": null
+   }
+  },
+  "recordedDevices": [
+   {
+    "category": 0,
+    "deviceId": 3417032663,
+    "deviceName": "fenix 7 Solar",
+    "imageURL": "https://res.garmin.com/en/products/010-02540-11/v/c1_01_md-07b2f358-9ecc-4edb-a299-e910d63559b8.png"
+   }
+  ],
+  "showSelector": false,
+  "userId": 107188880
+ },
+ "mostRecentVO2Max": {
+  "cycling": null,
+  "generic": {
+   "calendarDate": "2026-10-26",
+   "fitnessAge": null,
+   "fitnessAgeDescription": null,
+   "maxMetCategory": 0,
+   "vo2MaxPreciseValue": 54.5,
+   "vo2MaxValue": 55.0
+  },
+  "heatAltitudeAcclimation": {
+   "acclimationPercentage": 0,
+   "altitudeAcclimation": 0,
+   "altitudeAcclimationDate": "2026-10-26",
+   "altitudeAcclimationLocalTimestamp": "2026-10-27T00:01:03.0",
+   "altitudeTrend": null,
+   "calendarDate": "2026-10-27",
+   "currentAltitude": 0,
+   "heatAcclimationDate": "2026-10-26",
+   "heatAcclimationPercentage": 0,
+   "heatTrend": null,
+   "previousAcclimationPercentage": 0,
+   "previousAltitude": 0,
+   "previousAltitudeAcclimation": 0,
+   "previousAltitudeAcclimationDate": "2026-10-26",
+   "previousHeatAcclimationDate": "2026-10-26",
+   "previousHeatAcclimationPercentage": 0
+  },
+  "userId": 107188880
+ },
  "userId": 107188880
 }

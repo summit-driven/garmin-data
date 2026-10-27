@@ -1,5 +1,28 @@
 {
- "metricsTrainingLoadBalanceDTOMap": null,
- "recordedDevices": null,
+ "metricsTrainingLoadBalanceDTOMap": {
+  "3417032663": {
+   "calendarDate": "2026-10-27",
+   "deviceId": 3417032663,
+   "monthlyLoadAerobicHigh": 524.76636,
+   "monthlyLoadAerobicHighTargetMax": 806,
+   "monthlyLoadAerobicHighTargetMin": 406,
+   "monthlyLoadAerobicLow": 792.3315,
+   "monthlyLoadAerobicLowTargetMax": 729,
+   "monthlyLoadAerobicLowTargetMin": 328,
+   "monthlyLoadAnaerobic": 183.1942,
+   "monthlyLoadAnaerobicTargetMax": 400,
+   "monthlyLoadAnaerobicTargetMin": 133,
+   "primaryTrainingDevice": true,
+   "trainingBalanceFeedbackPhrase": "AEROBIC_LOW_FOCUS"
+  }
+ },
+ "recordedDevices": [
+  {
+   "category": 0,
+   "deviceId": 3417032663,
+   "deviceName": "fenix 7 Solar",
+   "imageURL": "https://res.garmin.com/en/products/010-02540-11/v/c1_01_md-07b2f358-9ecc-4edb-a299-e910d63559b8.png"
+  }
+ ],
  "userId": 107188880
 }
