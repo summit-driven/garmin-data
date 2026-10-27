@@ -44,223 +44,7 @@
   "brickWorkoutCapable": true,
   "capabilities": [
    {
-    "capabilityId": "DTC_6",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_63",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_270",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_210",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_83",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_118",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_204",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_1",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_13",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_89",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_11",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_133",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_209",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_123",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_250",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_169",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_158",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_93",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_39",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_159",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_261",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_195",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_237",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_23",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_9",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_45",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_78",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_91",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_14",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_27",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_40",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_172",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_179",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_216",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_221",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_178",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_127",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_74",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_120",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_134",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_149",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_242",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_119",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_8",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_43",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_10",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_64",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_86",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_28",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_264",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_146",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_191",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_114",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_115",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_125",
+    "capabilityId": "DTC_58",
     "capable": false
    },
    {
@@ -268,207 +52,19 @@
     "capable": true
    },
    {
-    "capabilityId": "DTC_38",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_170",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_16",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_110",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_17",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_228",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_255",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_140",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_71",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_200",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_198",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_212",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_271",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_194",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_80",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_234",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_73",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_4",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_85",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_53",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_157",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_196",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_52",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_55",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_3",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_232",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_233",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_262",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_272",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_155",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_32",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_108",
-    "capable": true
-   },
-   {
     "capabilityId": "DTC_160",
     "capable": false
    },
    {
-    "capabilityId": "DTC_177",
+    "capabilityId": "DTC_193",
     "capable": false
    },
    {
-    "capabilityId": "DTC_263",
+    "capabilityId": "DTC_10",
     "capable": false
    },
    {
-    "capabilityId": "DTC_70",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_41",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_113",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_171",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_97",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_141",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_105",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_56",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_260",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_153",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_138",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_266",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_30",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_188",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_182",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_176",
+    "capabilityId": "DTC_109",
     "capable": false
    },
    {
@@ -476,255 +72,11 @@
     "capable": false
    },
    {
-    "capabilityId": "DTC_88",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_22",
+    "capabilityId": "DTC_236",
     "capable": true
    },
    {
-    "capabilityId": "DTC_68",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_111",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_116",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_81",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_240",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_15",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_60",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_227",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_203",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_142",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_29",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_121",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_166",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_259",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_92",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_20",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_243",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_44",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_193",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_65",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_164",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_36",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_84",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_154",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_220",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_99",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_104",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_257",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_150",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_207",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_12",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_51",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_34",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_102",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_185",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_206",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_77",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_217",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_100",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_7",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_42",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_26",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_156",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_94",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_5",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_219",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_31",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_87",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_230",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_152",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_72",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_19",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_124",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_76",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_162",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_165",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_241",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_246",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_62",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_61",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_25",
+    "capabilityId": "DTC_82",
     "capable": true
    },
    {
@@ -732,335 +84,83 @@
     "capable": false
    },
    {
-    "capabilityId": "DTC_215",
+    "capabilityId": "DTC_111",
     "capable": false
-   },
-   {
-    "capabilityId": "DTC_147",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_245",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_223",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_112",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_238",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_184",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_201",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_59",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_139",
-    "capable": true
    },
    {
     "capabilityId": "DTC_189",
     "capable": true
    },
    {
-    "capabilityId": "DTC_35",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_208",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_205",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_236",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_186",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_24",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_181",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_190",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_226",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_37",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_269",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_148",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_211",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_187",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_47",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_202",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_218",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_199",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_239",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_214",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_18",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_174",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_54",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_151",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_46",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_161",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_103",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_67",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_175",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_273",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_49",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_79",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_90",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_117",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_48",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_224",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_213",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_249",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_33",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_235",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_144",
-    "capable": false
-   },
-   {
     "capabilityId": "DTC_95",
     "capable": false
    },
    {
-    "capabilityId": "DTC_251",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_265",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_197",
+    "capabilityId": "DTC_25",
     "capable": true
    },
    {
-    "capabilityId": "DTC_247",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_252",
+    "capabilityId": "DTC_179",
     "capable": false
-   },
-   {
-    "capabilityId": "DTC_21",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_180",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_229",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_258",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_274",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_96",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_75",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_145",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_122",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_192",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_101",
-    "capable": true
    },
    {
     "capabilityId": "DTC_231",
     "capable": false
    },
    {
-    "capabilityId": "DTC_2",
+    "capabilityId": "DTC_121",
     "capable": false
    },
    {
-    "capabilityId": "DTC_66",
+    "capabilityId": "DTC_42",
     "capable": true
    },
    {
-    "capabilityId": "DTC_109",
+    "capabilityId": "DTC_102",
     "capable": false
    },
    {
-    "capabilityId": "DTC_163",
+    "capabilityId": "DTC_204",
     "capable": true
    },
    {
-    "capabilityId": "DTC_57",
+    "capabilityId": "DTC_45",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_40",
     "capable": false
    },
    {
-    "capabilityId": "DTC_253",
+    "capabilityId": "DTC_119",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_92",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_108",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_215",
     "capable": false
    },
    {
-    "capabilityId": "DTC_106",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_168",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_173",
-    "capable": true
-   },
-   {
-    "capabilityId": "DTC_126",
+    "capabilityId": "DTC_219",
     "capable": false
    },
    {
-    "capabilityId": "DTC_267",
+    "capabilityId": "DTC_110",
     "capable": false
    },
    {
-    "capabilityId": "DTC_107",
-    "capable": true
+    "capabilityId": "DTC_180",
+    "capable": false
    },
    {
-    "capabilityId": "DTC_254",
+    "capabilityId": "DTC_71",
     "capable": false
    },
    {
@@ -1068,39 +168,311 @@
     "capable": true
    },
    {
-    "capabilityId": "DTC_58",
+    "capabilityId": "DTC_114",
     "capable": false
    },
    {
-    "capabilityId": "DTC_248",
-    "capable": false
-   },
-   {
-    "capabilityId": "DTC_98",
+    "capabilityId": "DTC_118",
     "capable": true
    },
    {
-    "capabilityId": "DTC_69",
+    "capabilityId": "DTC_93",
     "capable": true
    },
    {
-    "capabilityId": "DTC_137",
+    "capabilityId": "DTC_197",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_80",
     "capable": false
+   },
+   {
+    "capabilityId": "DTC_24",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_235",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_21",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_116",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_266",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_267",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_51",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_33",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_86",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_173",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_13",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_122",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_183",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_89",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_194",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_5",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_149",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_170",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_227",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_100",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_254",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_2",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_99",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_76",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_192",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_65",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_104",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_245",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_273",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_237",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_210",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_172",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_252",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_144",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_70",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_87",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_209",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_115",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_228",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_19",
+    "capable": true
    },
    {
     "capabilityId": "DTC_244",
     "capable": false
    },
    {
+    "capabilityId": "DTC_16",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_211",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_147",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_27",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_232",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_178",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_103",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_243",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_218",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_32",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_224",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_41",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_152",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_157",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_74",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_60",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_124",
+    "capable": true
+   },
+   {
     "capabilityId": "DTC_167",
     "capable": false
    },
    {
-    "capabilityId": "DTC_82",
+    "capabilityId": "DTC_44",
     "capable": true
    },
    {
-    "capabilityId": "DTC_256",
+    "capabilityId": "DTC_171",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_47",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_214",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_55",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_64",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_66",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_187",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_150",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_155",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_158",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_46",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_248",
     "capable": false
    },
    {
@@ -1108,7 +480,635 @@
     "capable": false
    },
    {
-    "capabilityId": "DTC_183",
+    "capabilityId": "DTC_23",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_39",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_203",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_17",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_7",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_250",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_125",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_52",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_176",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_258",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_126",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_188",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_117",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_153",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_199",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_96",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_174",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_91",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_202",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_169",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_31",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_251",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_53",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_156",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_6",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_263",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_120",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_186",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_59",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_247",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_8",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_142",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_57",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_260",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_101",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_216",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_18",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_270",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_272",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_78",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_145",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_241",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_30",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_48",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_138",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_26",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_269",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_255",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_113",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_43",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_264",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_140",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_68",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_175",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_35",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_75",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_69",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_134",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_265",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_195",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_83",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_11",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_90",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_259",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_274",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_106",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_196",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_208",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_62",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_163",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_230",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_151",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_220",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_85",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_198",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_81",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_77",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_107",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_3",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_233",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_271",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_229",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_139",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_154",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_148",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_238",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_38",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_249",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_28",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_191",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_162",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_262",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_97",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_242",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_205",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_14",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_67",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_261",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_105",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_226",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_112",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_34",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_177",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_181",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_98",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_36",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_146",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_63",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_185",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_239",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_257",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_22",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_137",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_256",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_20",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_182",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_240",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_12",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_190",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_72",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_79",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_141",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_164",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_54",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_94",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_133",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_15",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_201",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_49",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_159",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_234",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_56",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_165",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_207",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_246",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_127",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_4",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_253",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_88",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_61",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_206",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_123",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_200",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_1",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_168",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_213",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_217",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_29",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_84",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_184",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_212",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_37",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_161",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_221",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_73",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_9",
+    "capable": true
+   },
+   {
+    "capabilityId": "DTC_223",
+    "capable": false
+   },
+   {
+    "capabilityId": "DTC_166",
     "capable": true
    }
   ],
