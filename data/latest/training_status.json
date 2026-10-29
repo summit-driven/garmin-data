@@ -3,7 +3,7 @@
  "mostRecentTrainingLoadBalance": {
   "metricsTrainingLoadBalanceDTOMap": {
    "3417032663": {
-    "calendarDate": "2026-10-28",
+    "calendarDate": "2026-10-29",
     "deviceId": 3417032663,
     "monthlyLoadAerobicHigh": 524.76636,
     "monthlyLoadAerobicHighTargetMax": 806,
@@ -29,20 +29,20 @@
   "userId": 107188880
  },
  "mostRecentTrainingStatus": {
-  "lastPrimarySyncDate": "2026-10-28",
+  "lastPrimarySyncDate": "2026-10-29",
   "latestTrainingStatusData": {
    "3417032663": {
     "acuteTrainingLoadDTO": {
-     "acwrPercent": 57,
+     "acwrPercent": 47,
      "acwrStatus": "OPTIMAL",
-     "acwrStatusFeedback": "FEEDBACK_3",
-     "dailyAcuteChronicWorkloadRatio": 1.3,
-     "dailyTrainingLoadAcute": 593,
-     "dailyTrainingLoadChronic": 427,
-     "maxTrainingLoadChronic": 640.5,
-     "minTrainingLoadChronic": 341.6
+     "acwrStatusFeedback": "FEEDBACK_2",
+     "dailyAcuteChronicWorkloadRatio": 1.1,
+     "dailyTrainingLoadAcute": 489,
+     "dailyTrainingLoadChronic": 417,
+     "maxTrainingLoadChronic": 625.5,
+     "minTrainingLoadChronic": 333.6
     },
-    "calendarDate": "2026-10-28",
+    "calendarDate": "2026-10-29",
     "deviceId": 3417032663,
     "fitnessTrend": 1,
     "fitnessTrendSport": "RUNNING",
@@ -53,7 +53,7 @@
     "sinceDate": "2026-10-25",
     "sport": "RUNNING",
     "subSport": "GENERIC",
-    "timestamp": 1793164863000,
+    "timestamp": 1793251563000,
     "trainingPaused": false,
     "trainingStatus": 2,
     "trainingStatusFeedbackPhrase": "UNPRODUCTIVE_5",
@@ -84,19 +84,19 @@
   "heatAltitudeAcclimation": {
    "acclimationPercentage": 0,
    "altitudeAcclimation": 0,
-   "altitudeAcclimationDate": "2026-10-27",
-   "altitudeAcclimationLocalTimestamp": "2026-10-28T00:01:03.0",
+   "altitudeAcclimationDate": "2026-10-28",
+   "altitudeAcclimationLocalTimestamp": "2026-10-29T00:01:03.0",
    "altitudeTrend": null,
-   "calendarDate": "2026-10-28",
+   "calendarDate": "2026-10-29",
    "currentAltitude": 0,
-   "heatAcclimationDate": "2026-10-27",
+   "heatAcclimationDate": "2026-10-28",
    "heatAcclimationPercentage": 0,
    "heatTrend": null,
    "previousAcclimationPercentage": 0,
    "previousAltitude": 0,
    "previousAltitudeAcclimation": 0,
-   "previousAltitudeAcclimationDate": "2026-10-27",
-   "previousHeatAcclimationDate": "2026-10-27",
+   "previousAltitudeAcclimationDate": "2026-10-28",
+   "previousHeatAcclimationDate": "2026-10-28",
    "previousHeatAcclimationPercentage": 0
   },
   "userId": 107188880
