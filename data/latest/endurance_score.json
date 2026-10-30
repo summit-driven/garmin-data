@@ -1,8 +1,8 @@
 {
- "avg": 6338,
- "endDate": "2026-10-29",
+ "avg": 6342,
+ "endDate": "2026-10-30",
  "enduranceScoreDTO": {
-  "calendarDate": "2026-10-29",
+  "calendarDate": "2026-10-30",
   "classification": 4,
   "classificationLowerLimitElite": 8800,
   "classificationLowerLimitExpert": 7300,
@@ -13,22 +13,22 @@
   "contributors": [
    {
     "activityTypeId": 223,
-    "contribution": 57.74,
+    "contribution": 59.46,
     "group": null
    },
    {
     "activityTypeId": 37,
-    "contribution": 30.02,
+    "contribution": 28.8,
     "group": null
    },
    {
     "activityTypeId": null,
-    "contribution": 12.23,
+    "contribution": 11.74,
     "group": 0
    },
    {
     "activityTypeId": null,
-    "contribution": 0.01,
+    "contribution": 0.0,
     "group": 8
    }
   ],
@@ -36,168 +36,168 @@
   "feedbackPhrase": 61,
   "gaugeLowerLimit": 3570,
   "gaugeUpperLimit": 10560,
-  "overallScore": 6732,
+  "overallScore": 6766,
   "primaryTrainingDevice": true,
   "userProfilePK": 107188880
  },
  "groupMap": {
-  "2025-10-24": {
+  "2025-10-25": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 37,
-     "contribution": 26.715,
+     "contribution": 26.15,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 43.440002,
+     "contribution": 44.2,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 16.404999,
+     "contribution": 16.5,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 13.44,
+     "contribution": 13.15,
      "group": 8
     }
    ],
-   "groupAverage": 5635,
+   "groupAverage": 5687,
    "groupMax": 5705
   },
-  "2025-10-31": {
+  "2025-11-01": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 37,
-     "contribution": 26.445713,
+     "contribution": 26.461428,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 49.562862,
+     "contribution": 50.93714,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 15.13143,
+     "contribution": 14.674287,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 8.86,
+     "contribution": 7.927142,
      "group": 8
     }
    ],
-   "groupAverage": 5622,
+   "groupAverage": 5595,
    "groupMax": 5728
   },
-  "2025-11-07": {
+  "2025-11-08": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 37,
-     "contribution": 27.455,
+     "contribution": 27.593332,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 52.51167,
+     "contribution": 52.465,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 13.366666,
+     "contribution": 13.345,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 6.6666665,
+     "contribution": 6.596667,
      "group": 8
     }
    ],
-   "groupAverage": 5484,
+   "groupAverage": 5488,
    "groupMax": 5506
   },
-  "2025-11-14": {
+  "2025-11-15": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 37,
-     "contribution": 27.245714,
+     "contribution": 27.012857,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 53.08143,
+     "contribution": 53.13429,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 13.437143,
+     "contribution": 13.597143,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 6.2357144,
+     "contribution": 6.2557144,
      "group": 8
     }
    ],
-   "groupAverage": 5525,
+   "groupAverage": 5535,
    "groupMax": 5593
   },
-  "2025-11-21": {
+  "2025-11-22": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 37,
-     "contribution": 23.778568,
+     "contribution": 21.722857,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 56.707146,
+     "contribution": 58.797142,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 13.29,
+     "contribution": 13.227142,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 6.2242856,
+     "contribution": 6.2528577,
      "group": 8
     }
    ],
-   "groupAverage": 5588,
+   "groupAverage": 5587,
    "groupMax": 5612
   },
-  "2025-11-28": {
+  "2025-11-29": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 37,
-     "contribution": 10.081428,
+     "contribution": 9.931428,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 70.09142,
+     "contribution": 70.41286,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 13.545714,
+     "contribution": 13.442856,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 6.281429,
+     "contribution": 6.2128572,
      "group": 8
     }
    ],
-   "groupAverage": 5568,
+   "groupAverage": 5571,
    "groupMax": 5599
   },
-  "2025-12-05": {
+  "2025-12-06": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 37,
@@ -206,703 +206,724 @@
     },
     {
      "activityTypeId": 226,
-     "contribution": 72.84429,
+     "contribution": 73.30428,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 11.795714,
+     "contribution": 11.625715,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 5.605714,
+     "contribution": 5.3157144,
      "group": 8
     }
    ],
-   "groupAverage": 5678,
+   "groupAverage": 5693,
    "groupMax": 5741
   },
-  "2025-12-12": {
+  "2025-12-13": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 37,
-     "contribution": 9.712858,
+     "contribution": 9.627143,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 75.37,
+     "contribution": 75.72857,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 11.011429,
+     "contribution": 10.774285,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 3.9057143,
+     "contribution": 3.8700001,
      "group": 8
     }
    ],
-   "groupAverage": 5751,
+   "groupAverage": 5760,
    "groupMax": 5799
   },
-  "2025-12-19": {
+  "2025-12-20": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 37,
-     "contribution": 7.1142855,
+     "contribution": 6.324286,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 79.72571,
+     "contribution": 80.78715,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 9.577142,
+     "contribution": 9.45,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 3.5828571,
+     "contribution": 3.4385717,
      "group": 8
     }
    ],
-   "groupAverage": 5783,
+   "groupAverage": 5770,
    "groupMax": 5821
   },
-  "2025-12-26": {
+  "2025-12-27": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 37,
-     "contribution": 3.162857,
+     "contribution": 3.0514286,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 85.23572,
+     "contribution": 85.74143,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 8.904286,
+     "contribution": 8.511429,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 2.6971428,
+     "contribution": 2.6957142,
      "group": 8
     }
    ],
-   "groupAverage": 5664,
+   "groupAverage": 5663,
    "groupMax": 5688
   },
-  "2026-01-02": {
+  "2026-01-03": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 37,
-     "contribution": 3.95,
+     "contribution": 4.0971427,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 86.91143,
+     "contribution": 86.94143,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 6.465714,
+     "contribution": 6.3185716,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 2.6728573,
+     "contribution": 2.642857,
      "group": 8
     }
    ],
-   "groupAverage": 5643,
-   "groupMax": 5682
-  },
-  "2026-01-09": {
-   "enduranceContributorDTOList": [
-    {
-     "activityTypeId": 37,
-     "contribution": 4.262857,
-     "group": null
-    },
-    {
-     "activityTypeId": 226,
-     "contribution": 87.042854,
-     "group": null
-    },
-    {
-     "activityTypeId": 13,
-     "contribution": 5.7999997,
-     "group": null
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 2.8942857,
-     "group": 8
-    }
-   ],
-   "groupAverage": 5819,
+   "groupAverage": 5672,
    "groupMax": 5842
   },
-  "2026-01-16": {
+  "2026-01-10": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 9.694285,
+     "contribution": 0.9942857,
+     "group": null
+    },
+    {
+     "activityTypeId": 37,
+     "contribution": 3.6714284,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 79.38,
+     "contribution": 86.138565,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 6.1342854,
+     "contribution": 5.8271422,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 4.7914286,
+     "contribution": 3.368571,
      "group": 8
     }
    ],
-   "groupAverage": 5849,
+   "groupAverage": 5824,
+   "groupMax": 5871
+  },
+  "2026-01-17": {
+   "enduranceContributorDTOList": [
+    {
+     "activityTypeId": 223,
+     "contribution": 10.681428,
+     "group": null
+    },
+    {
+     "activityTypeId": 226,
+     "contribution": 78.43285,
+     "group": null
+    },
+    {
+     "activityTypeId": 13,
+     "contribution": 6.2542853,
+     "group": null
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 4.6314282,
+     "group": 8
+    }
+   ],
+   "groupAverage": 5839,
    "groupMax": 5877
   },
-  "2026-01-23": {
+  "2026-01-24": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 18.35,
+     "contribution": 19.765715,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 69.868576,
+     "contribution": 68.30429,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 6.3142853,
+     "contribution": 6.277143,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 5.4671426,
+     "contribution": 5.6528563,
      "group": 8
     }
    ],
-   "groupAverage": 5855,
-   "groupMax": 5885
-  },
-  "2026-01-30": {
-   "enduranceContributorDTOList": [
-    {
-     "activityTypeId": 223,
-     "contribution": 26.898571,
-     "group": null
-    },
-    {
-     "activityTypeId": 226,
-     "contribution": 60.035713,
-     "group": null
-    },
-    {
-     "activityTypeId": 13,
-     "contribution": 6.498572,
-     "group": null
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 6.5671425,
-     "group": 8
-    }
-   ],
-   "groupAverage": 5882,
+   "groupAverage": 5868,
    "groupMax": 5901
   },
-  "2026-02-06": {
+  "2026-01-31": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 38.534283,
+     "contribution": 28.222857,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 48.044285,
+     "contribution": 58.47286,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 6.791428,
+     "contribution": 6.5628576,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 6.63,
+     "contribution": 6.7414284,
      "group": 8
     }
    ],
-   "groupAverage": 5872,
-   "groupMax": 5910
+   "groupAverage": 5864,
+   "groupMax": 5901
   },
-  "2026-02-13": {
+  "2026-02-07": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 49.06428,
+     "contribution": 40.147144,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 37.489998,
+     "contribution": 46.60857,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 7.0185723,
+     "contribution": 6.7457147,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 6.427143,
+     "contribution": 6.498572,
      "group": 8
     }
    ],
-   "groupAverage": 5914,
+   "groupAverage": 5892,
+   "groupMax": 5913
+  },
+  "2026-02-14": {
+   "enduranceContributorDTOList": [
+    {
+     "activityTypeId": 223,
+     "contribution": 50.19143,
+     "group": null
+    },
+    {
+     "activityTypeId": 226,
+     "contribution": 36.280003,
+     "group": null
+    },
+    {
+     "activityTypeId": 13,
+     "contribution": 7.1128573,
+     "group": null
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 6.4157143,
+     "group": 8
+    }
+   ],
+   "groupAverage": 5918,
    "groupMax": 5936
   },
-  "2026-02-20": {
+  "2026-02-21": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 53.565716,
+     "contribution": 54.384285,
      "group": null
     },
     {
      "activityTypeId": 226,
-     "contribution": 29.947145,
+     "contribution": 28.570002,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 6.7757144,
+     "contribution": 6.7042856,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 9.711428,
+     "contribution": 10.341429,
      "group": 8
     }
    ],
-   "groupAverage": 5943,
+   "groupAverage": 5941,
    "groupMax": 5985
   },
-  "2026-02-27": {
+  "2026-02-28": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 55.722862,
+     "contribution": 55.33715,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 12.792856,
+     "contribution": 15.087142,
      "group": 3
     },
     {
      "activityTypeId": 226,
-     "contribution": 20.112856,
-     "group": null
-    },
-    {
-     "activityTypeId": 13,
-     "contribution": 0.95285714,
+     "contribution": 19.201427,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 10.418572,
+     "contribution": 10.374286,
      "group": 8
     }
    ],
-   "groupAverage": 6070,
+   "groupAverage": 6120,
    "groupMax": 6271
   },
-  "2026-03-06": {
+  "2026-03-07": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 58.11571,
+     "contribution": 58.958576,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 15.859999,
+     "contribution": 15.751428,
      "group": 3
     },
     {
      "activityTypeId": 226,
-     "contribution": 15.3457155,
+     "contribution": 14.435716,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 10.678572,
+     "contribution": 10.854285,
      "group": 8
     }
    ],
-   "groupAverage": 6257,
-   "groupMax": 6282
+   "groupAverage": 6259,
+   "groupMax": 6285
   },
-  "2026-03-13": {
+  "2026-03-14": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 65.72429,
+     "contribution": 67.42571,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 15.0885725,
+     "contribution": 15.06143,
      "group": 3
     },
     {
      "activityTypeId": 226,
-     "contribution": 7.585714,
+     "contribution": 5.8799996,
      "group": null
     },
     {
      "activityTypeId": 13,
-     "contribution": 0.9614286,
+     "contribution": 1.9442858,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 10.64,
+     "contribution": 9.688573,
      "group": 8
     }
    ],
-   "groupAverage": 6301,
+   "groupAverage": 6300,
    "groupMax": 6316
   },
-  "2026-03-20": {
+  "2026-03-21": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 74.68286,
+     "contribution": 74.99857,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 14.798572,
+     "contribution": 14.767142,
      "group": 3
     },
     {
      "activityTypeId": 13,
-     "contribution": 6.678571,
+     "contribution": 6.6085715,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 3.84,
+     "contribution": 3.6257145,
      "group": 8
     }
    ],
    "groupAverage": 6301,
    "groupMax": 6314
   },
-  "2026-03-27": {
+  "2026-03-28": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 73.884285,
+     "contribution": 73.70857,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 14.702858,
+     "contribution": 14.678572,
      "group": 3
     },
     {
      "activityTypeId": 13,
-     "contribution": 6.3042855,
+     "contribution": 6.2271423,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 5.108571,
+     "contribution": 5.3857145,
      "group": 8
     }
    ],
-   "groupAverage": 6578,
+   "groupAverage": 6627,
    "groupMax": 6649
   },
-  "2026-04-03": {
+  "2026-04-04": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 72.36,
+     "contribution": 72.08,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 15.075714,
+     "contribution": 15.2157135,
      "group": 3
     },
     {
      "activityTypeId": null,
-     "contribution": 5.2799997,
+     "contribution": 6.2599998,
      "group": 0
     },
     {
-     "activityTypeId": 13,
-     "contribution": 0.8357143,
-     "group": null
-    },
-    {
      "activityTypeId": null,
-     "contribution": 6.448571,
+     "contribution": 6.444286,
      "group": 8
     }
    ],
-   "groupAverage": 6588,
+   "groupAverage": 6581,
    "groupMax": 6635
   },
-  "2026-04-10": {
+  "2026-04-11": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 70.30143,
+     "contribution": 69.938576,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 14.914286,
+     "contribution": 14.725714,
      "group": 3
     },
     {
      "activityTypeId": null,
-     "contribution": 9.972857,
+     "contribution": 10.691429,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 4.8114285,
+     "contribution": 4.644286,
      "group": 8
     }
    ],
-   "groupAverage": 6468,
-   "groupMax": 6574
+   "groupAverage": 6434,
+   "groupMax": 6525
   },
-  "2026-04-17": {
+  "2026-04-18": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 68.78715,
+     "contribution": 68.63286,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 13.935714,
+     "contribution": 13.798571,
      "group": 3
     },
     {
      "activityTypeId": null,
-     "contribution": 12.725714,
+     "contribution": 12.82857,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 4.551429,
+     "contribution": 4.7400002,
      "group": 8
     }
    ],
-   "groupAverage": 6276,
-   "groupMax": 6340
+   "groupAverage": 6263,
+   "groupMax": 6282
   },
-  "2026-04-24": {
+  "2026-04-25": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 65.457146,
+     "contribution": 64.41429,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 13.429999,
+     "contribution": 13.392858,
      "group": 3
     },
     {
      "activityTypeId": null,
-     "contribution": 15.165713,
+     "contribution": 16.155714,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 5.9471426,
+     "contribution": 6.037143,
      "group": 8
     }
    ],
-   "groupAverage": 6268,
-   "groupMax": 6325
-  },
-  "2026-05-01": {
-   "enduranceContributorDTOList": [
-    {
-     "activityTypeId": 223,
-     "contribution": 63.784283,
-     "group": null
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 10.305715,
-     "group": 3
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 19.572859,
-     "group": 0
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 6.337143,
-     "group": 8
-    }
-   ],
-   "groupAverage": 6360,
+   "groupAverage": 6292,
    "groupMax": 6419
   },
-  "2026-05-08": {
+  "2026-05-02": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 66.63572,
+     "contribution": 64.33,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 2.3614287,
+     "contribution": 9.795714,
      "group": 3
     },
     {
      "activityTypeId": null,
-     "contribution": 24.185713,
+     "contribution": 19.51,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 2.4057143,
-     "group": 1
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 4.411428,
+     "contribution": 6.3642855,
      "group": 8
     }
    ],
-   "groupAverage": 6573,
-   "groupMax": 6651
+   "groupAverage": 6356,
+   "groupMax": 6392
   },
-  "2026-05-15": {
+  "2026-05-09": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 66.98286,
+     "contribution": 67.00714,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 26.574286,
+     "contribution": 0.99142855,
+     "group": 3
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 25.257143,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 4.254286,
+     "contribution": 2.8857143,
      "group": 1
     },
     {
      "activityTypeId": null,
-     "contribution": 2.1885715,
-     "group": 8
-    }
-   ],
-   "groupAverage": 6628,
-   "groupMax": 6675
-  },
-  "2026-05-22": {
-   "enduranceContributorDTOList": [
-    {
-     "activityTypeId": 223,
-     "contribution": 62.74001,
-     "group": null
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 31.759998,
-     "group": 0
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 3.907143,
-     "group": 1
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 1.5928571,
+     "contribution": 3.8585715,
      "group": 8
     }
    ],
    "groupAverage": 6613,
-   "groupMax": 6695
+   "groupMax": 6675
   },
-  "2026-05-29": {
+  "2026-05-16": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 60.22286,
+     "contribution": 66.887146,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 34.145714,
+     "contribution": 26.707144,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 3.975714,
+     "contribution": 4.334286,
      "group": 1
     },
     {
      "activityTypeId": null,
-     "contribution": 1.6557143,
+     "contribution": 2.0714288,
      "group": 8
     }
    ],
-   "groupAverage": 6593,
-   "groupMax": 6626
+   "groupAverage": 6604,
+   "groupMax": 6651
   },
-  "2026-06-05": {
+  "2026-05-23": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 53.324284,
+     "contribution": 61.924286,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 41.52429,
+     "contribution": 32.582855,
+     "group": 0
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 3.9014287,
+     "group": 1
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 1.5914286,
+     "group": 8
+    }
+   ],
+   "groupAverage": 6630,
+   "groupMax": 6695
+  },
+  "2026-05-30": {
+   "enduranceContributorDTOList": [
+    {
+     "activityTypeId": 223,
+     "contribution": 59.862858,
+     "group": null
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 34.45714,
+     "group": 0
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 4.011429,
+     "group": 1
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 1.6685714,
+     "group": 8
+    }
+   ],
+   "groupAverage": 6587,
+   "groupMax": 6604
+  },
+  "2026-06-06": {
+   "enduranceContributorDTOList": [
+    {
+     "activityTypeId": 223,
+     "contribution": 52.192852,
+     "group": null
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 42.78143,
+     "group": 0
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 3.8042858,
+     "group": 1
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 1.2214286,
+     "group": 8
+    }
+   ],
+   "groupAverage": 6838,
+   "groupMax": 6896
+  },
+  "2026-06-13": {
+   "enduranceContributorDTOList": [
+    {
+     "activityTypeId": 223,
+     "contribution": 51.18857,
+     "group": null
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 43.882854,
      "group": 0
     },
     {
@@ -912,413 +933,387 @@
     },
     {
      "activityTypeId": null,
-     "contribution": 1.3085716,
+     "contribution": 1.0857143,
      "group": 8
     }
    ],
-   "groupAverage": 6793,
-   "groupMax": 6847
-  },
-  "2026-06-12": {
-   "enduranceContributorDTOList": [
-    {
-     "activityTypeId": 223,
-     "contribution": 51.044285,
-     "group": null
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 43.994286,
-     "group": 0
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 3.868571,
-     "group": 1
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 1.0928572,
-     "group": 8
-    }
-   ],
-   "groupAverage": 6962,
-   "groupMax": 7054
-  },
-  "2026-06-19": {
-   "enduranceContributorDTOList": [
-    {
-     "activityTypeId": 223,
-     "contribution": 51.37,
-     "group": null
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 43.455715,
-     "group": 0
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 3.7785714,
-     "group": 1
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 1.3957144,
-     "group": 8
-    }
-   ],
-   "groupAverage": 7143,
+   "groupAverage": 7002,
    "groupMax": 7171
   },
-  "2026-06-26": {
+  "2026-06-20": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 46.622856,
+     "contribution": 50.881428,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 48.55714,
+     "contribution": 43.871426,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 3.3771427,
+     "contribution": 3.7942853,
      "group": 1
     },
     {
      "activityTypeId": null,
-     "contribution": 1.4428571,
+     "contribution": 1.4528571,
      "group": 8
     }
    ],
-   "groupAverage": 7117,
+   "groupAverage": 7139,
+   "groupMax": 7161
+  },
+  "2026-06-27": {
+   "enduranceContributorDTOList": [
+    {
+     "activityTypeId": 223,
+     "contribution": 45.989998,
+     "group": null
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 49.38857,
+     "group": 0
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 3.2028568,
+     "group": 1
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 1.4185714,
+     "group": 8
+    }
+   ],
+   "groupAverage": 7120,
    "groupMax": 7191
   },
-  "2026-07-03": {
+  "2026-07-04": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 46.67143,
+     "contribution": 47.417145,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 50.367146,
+     "contribution": 49.83286,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 1.0885714,
+     "contribution": 0.7214286,
      "group": 1
     },
     {
      "activityTypeId": null,
-     "contribution": 1.8728572,
+     "contribution": 2.0285714,
      "group": 8
     }
    ],
-   "groupAverage": 7187,
+   "groupAverage": 7193,
    "groupMax": 7256
   },
-  "2026-07-10": {
+  "2026-07-11": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 47.58286,
+     "contribution": 46.97857,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 49.274284,
+     "contribution": 49.68571,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 3.142857,
+     "contribution": 3.335714,
      "group": 8
     }
    ],
-   "groupAverage": 7159,
+   "groupAverage": 7145,
    "groupMax": 7207
   },
-  "2026-07-17": {
+  "2026-07-18": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 46.391426,
+     "contribution": 46.434288,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 49.67143,
+     "contribution": 49.559998,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 3.937143,
+     "contribution": 4.0057144,
      "group": 8
     }
    ],
-   "groupAverage": 7034,
+   "groupAverage": 7002,
    "groupMax": 7142
   },
-  "2026-07-24": {
+  "2026-07-25": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 43.75571,
+     "contribution": 43.209995,
      "group": null
     },
     {
      "activityTypeId": 180,
-     "contribution": 1.1842858,
+     "contribution": 1.49,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 53.158577,
+     "contribution": 53.885715,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 1.9014286,
+     "contribution": 1.4142858,
      "group": 8
     }
    ],
-   "groupAverage": 6778,
-   "groupMax": 6877
+   "groupAverage": 6754,
+   "groupMax": 6839
   },
-  "2026-07-31": {
+  "2026-08-01": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 43.122856,
+     "contribution": 43.03714,
      "group": null
     },
     {
      "activityTypeId": 180,
-     "contribution": 2.2042859,
+     "contribution": 2.2357142,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 53.982853,
+     "contribution": 54.07143,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 0.69,
+     "contribution": 0.65571433,
      "group": 8
     }
    ],
-   "groupAverage": 6680,
-   "groupMax": 6713
+   "groupAverage": 6670,
+   "groupMax": 6711
   },
-  "2026-08-07": {
+  "2026-08-08": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 39.665714,
+     "contribution": 39.738575,
      "group": null
     },
     {
      "activityTypeId": 180,
-     "contribution": 2.1985717,
+     "contribution": 2.1614287,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 57.61857,
+     "contribution": 57.59,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 0.51714283,
+     "contribution": 0.51,
      "group": 8
     }
    ],
-   "groupAverage": 6803,
+   "groupAverage": 6831,
    "groupMax": 6873
   },
-  "2026-08-14": {
+  "2026-08-15": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 47.79,
+     "contribution": 48.994286,
      "group": null
     },
     {
      "activityTypeId": 180,
-     "contribution": 2.4599998,
+     "contribution": 2.5314286,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 49.165718,
+     "contribution": 47.872864,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 0.5842857,
+     "contribution": 0.6014285,
      "group": 8
     }
    ],
-   "groupAverage": 6796,
-   "groupMax": 6844
+   "groupAverage": 6784,
+   "groupMax": 6838
   },
-  "2026-08-21": {
+  "2026-08-22": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 50.038574,
+     "contribution": 49.485714,
      "group": null
     },
     {
      "activityTypeId": 180,
-     "contribution": 2.7328572,
+     "contribution": 2.8057144,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 46.58143,
+     "contribution": 47.045715,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 0.6471429,
+     "contribution": 0.6628572,
      "group": 8
     }
    ],
-   "groupAverage": 6779,
+   "groupAverage": 6784,
    "groupMax": 6813
   },
-  "2026-08-28": {
+  "2026-08-29": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 47.06857,
+     "contribution": 47.55714,
      "group": null
     },
     {
      "activityTypeId": 180,
-     "contribution": 3.287143,
+     "contribution": 3.3542857,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 49.535713,
+     "contribution": 48.71857,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 0.108571425,
+     "contribution": 0.36999997,
      "group": 8
     }
    ],
-   "groupAverage": 6747,
-   "groupMax": 6793
+   "groupAverage": 6739,
+   "groupMax": 6783
   },
-  "2026-09-04": {
+  "2026-09-05": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 46.03143,
+     "contribution": 45.055714,
      "group": null
     },
     {
      "activityTypeId": 37,
-     "contribution": 11.055715,
+     "contribution": 13.711428,
      "group": null
     },
     {
      "activityTypeId": 180,
-     "contribution": 1.0385715,
+     "contribution": 0.5271429,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 38.797142,
+     "contribution": 37.522858,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 3.0771427,
+     "contribution": 3.182857,
      "group": 8
     }
    ],
-   "groupAverage": 6683,
+   "groupAverage": 6667,
    "groupMax": 6739
   },
-  "2026-09-11": {
+  "2026-09-12": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 39.768574,
+     "contribution": 40.00857,
      "group": null
     },
     {
      "activityTypeId": 37,
-     "contribution": 20.85857,
+     "contribution": 21.241428,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 35.665714,
+     "contribution": 34.974285,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 3.707143,
+     "contribution": 3.7757146,
      "group": 8
     }
    ],
-   "groupAverage": 6616,
+   "groupAverage": 6609,
    "groupMax": 6636
   },
-  "2026-09-18": {
+  "2026-09-19": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 47.17333,
+     "contribution": 48.655,
      "group": null
     },
     {
      "activityTypeId": 37,
-     "contribution": 21.686666,
+     "contribution": 21.778334,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 29.226664,
+     "contribution": 28.28333,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 1.9133334,
+     "contribution": 1.2833334,
      "group": 8
     }
    ],
-   "groupAverage": 6550,
-   "groupMax": 6579
+   "groupAverage": 6542,
+   "groupMax": 6555
   },
-  "2026-09-25": {
+  "2026-09-26": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 55.67286,
+     "contribution": 56.295715,
      "group": null
     },
     {
      "activityTypeId": 37,
-     "contribution": 21.220001,
+     "contribution": 21.054289,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 23.107141,
+     "contribution": 22.649998,
      "group": 0
     },
     {
@@ -1327,24 +1322,24 @@
      "group": 8
     }
    ],
-   "groupAverage": 6501,
-   "groupMax": 6530
+   "groupAverage": 6492,
+   "groupMax": 6502
   },
-  "2026-10-02": {
+  "2026-10-03": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 59.84714,
+     "contribution": 60.84,
      "group": null
     },
     {
      "activityTypeId": 37,
-     "contribution": 19.467142,
+     "contribution": 18.984285,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 20.685715,
+     "contribution": 20.175716,
      "group": 0
     },
     {
@@ -1353,24 +1348,24 @@
      "group": 8
     }
    ],
-   "groupAverage": 6441,
+   "groupAverage": 6436,
    "groupMax": 6470
   },
-  "2026-10-09": {
+  "2026-10-10": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 55.85143,
+     "contribution": 54.177143,
      "group": null
     },
     {
      "activityTypeId": 37,
-     "contribution": 29.982859,
+     "contribution": 32.244286,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 14.162857,
+     "contribution": 13.575716,
      "group": 0
     },
     {
@@ -1379,24 +1374,50 @@
      "group": 8
     }
    ],
-   "groupAverage": 6726,
+   "groupAverage": 6780,
    "groupMax": 6808
   },
-  "2026-10-16": {
+  "2026-10-17": {
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 57.38,
+     "contribution": 58.18572,
      "group": null
     },
     {
      "activityTypeId": 37,
-     "contribution": 34.76143,
+     "contribution": 35.05143,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 7.8542852,
+     "contribution": 6.7571435,
+     "group": 0
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 0.0057142857,
+     "group": 8
+    }
+   ],
+   "groupAverage": 6748,
+   "groupMax": 6766
+  },
+  "2026-10-24": {
+   "enduranceContributorDTOList": [
+    {
+     "activityTypeId": 223,
+     "contribution": 58.181427,
+     "group": null
+    },
+    {
+     "activityTypeId": 37,
+     "contribution": 30.830002,
+     "group": null
+    },
+    {
+     "activityTypeId": null,
+     "contribution": 10.984285,
      "group": 0
     },
     {
@@ -1405,37 +1426,11 @@
      "group": 8
     }
    ],
-   "groupAverage": 6759,
-   "groupMax": 6808
-  },
-  "2026-10-23": {
-   "enduranceContributorDTOList": [
-    {
-     "activityTypeId": 223,
-     "contribution": 57.764282,
-     "group": null
-    },
-    {
-     "activityTypeId": 37,
-     "contribution": 31.910002,
-     "group": null
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 10.318571,
-     "group": 0
-    },
-    {
-     "activityTypeId": null,
-     "contribution": 0.0071428567,
-     "group": 8
-    }
-   ],
-   "groupAverage": 6715,
-   "groupMax": 6735
+   "groupAverage": 6725,
+   "groupMax": 6766
   }
  },
  "max": 7256,
- "startDate": "2025-10-29",
+ "startDate": "2025-10-30",
  "userProfilePK": 107188880
 }

@@ -88,7 +88,7 @@
   }
  ],
  "date": "2026-10-28",
- "fetched_at": "2026-10-29T08:30:17+00:00",
+ "fetched_at": "2026-10-30T08:30:02+00:00",
  "fitness_age": {
   "achievableFitnessAge": 29.340520234469633,
   "chronologicalAge": 35,
@@ -3152,9 +3152,9 @@
   "userProfilePK": 107188880,
   "vigorousMinutes": 2,
   "weekGoal": 150,
-  "weeklyModerate": 26,
-  "weeklyTotal": 326,
-  "weeklyVigorous": 150
+  "weeklyModerate": 62,
+  "weeklyTotal": 502,
+  "weeklyVigorous": 220
  },
  "max_metrics": [],
  "respiration": {
@@ -6255,17 +6255,24 @@
    "autoSleepEndTimestampGMT": null,
    "autoSleepStartTimestampGMT": null,
    "averageRespirationValue": 12.0,
+   "averageSpO2HRSleep": null,
+   "averageSpO2Value": null,
    "avgHeartRate": 50.0,
    "avgSleepStress": 17.0,
    "awakeCount": 0,
    "awakeSleepSeconds": 120,
+   "breathingDisruptionSeverity": null,
    "calendarDate": "2026-10-28",
+   "dailyNapDTOS": null,
    "deepSleepSeconds": 9120,
    "deviceRemCapable": true,
    "highestRespirationValue": 18.0,
+   "highestSpO2Value": null,
    "id": 1793139911000,
+   "kidSleepNote": null,
    "lightSleepSeconds": 6180,
    "lowestRespirationValue": 8.0,
+   "lowestSpO2Value": null,
    "napTimeSeconds": 0,
    "nextSleepNeed": {
     "actual": 540,
@@ -6282,8 +6289,10 @@
     "trainingFeedback": "HIGH_ACWR_AND_CHRONIC",
     "userProfilePk": 107188880
    },
+   "numberOfEventsBelowThreshold": null,
    "remSleepSeconds": 1140,
    "retro": false,
+   "sleepAlignment": null,
    "sleepEndTimestampGMT": 1793156471000,
    "sleepEndTimestampLocal": 1793160071000,
    "sleepFromDevice": true,
@@ -6363,7 +6372,9 @@
    "sleepVersion": 2,
    "sleepWindowConfirmationType": "enhanced_confirmed_final",
    "sleepWindowConfirmed": true,
+   "spo2Threshold": null,
    "unmeasurableSleepSeconds": 0,
+   "userNote": null,
    "userProfilePK": 107188880
   },
   "hrvData": [
