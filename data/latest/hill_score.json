@@ -1,5 +1,5 @@
 {
- "endDate": "2026-10-30",
+ "endDate": "2026-10-31",
  "hillScoreDTOList": [
   {
    "calendarDate": "2026-10-30",
@@ -4719,25 +4719,12 @@
    "userProfilePK": 107188880,
    "vo2Max": null,
    "vo2MaxPreciseValue": null
-  },
-  {
-   "calendarDate": "2025-10-30",
-   "deviceId": 3417032663,
-   "enduranceScore": 16,
-   "hillScoreClassificationId": 2,
-   "hillScoreFeedbackPhraseId": 44,
-   "overallScore": 32,
-   "primaryTrainingDevice": true,
-   "strengthScore": 10,
-   "userProfilePK": 107188880,
-   "vo2Max": null,
-   "vo2MaxPreciseValue": null
   }
  ],
  "maxScore": 67,
  "periodAvgScore": {
-  "2025-10-30": 45
+  "2025-10-31": 45
  },
- "startDate": "2025-10-30",
+ "startDate": "2025-10-31",
  "userProfilePK": 107188880
 }
