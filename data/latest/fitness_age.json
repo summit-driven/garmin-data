@@ -18,15 +18,15 @@
   "vigorousDaysAvg": {
    "numOfWeeksForIm": 6,
    "stale": false,
-   "value": 3.1
+   "value": 3.3
   },
   "vigorousMinutesAvg": {
    "numOfWeeksForIm": 6,
    "stale": false,
-   "value": 258.1
+   "value": 252.5
   }
  },
  "fitnessAge": 30.905739272034253,
- "lastUpdated": "2026-11-02T00:00:00.0",
+ "lastUpdated": "2026-11-04T00:00:00.0",
  "previousFitnessAge": 30.905739272034253
 }
