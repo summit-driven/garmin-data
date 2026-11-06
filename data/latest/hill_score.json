@@ -1,6 +1,19 @@
 {
- "endDate": "2026-11-05",
+ "endDate": "2026-11-06",
  "hillScoreDTOList": [
+  {
+   "calendarDate": "2026-11-06",
+   "deviceId": 3417032663,
+   "enduranceScore": 7,
+   "hillScoreClassificationId": 2,
+   "hillScoreFeedbackPhraseId": 44,
+   "overallScore": 34,
+   "primaryTrainingDevice": true,
+   "strengthScore": 18,
+   "userProfilePK": 107188880,
+   "vo2Max": null,
+   "vo2MaxPreciseValue": null
+  },
   {
    "calendarDate": "2026-11-05",
    "deviceId": 3417032663,
@@ -9,7 +22,7 @@
    "hillScoreFeedbackPhraseId": 43,
    "overallScore": 34,
    "primaryTrainingDevice": true,
-   "strengthScore": 17,
+   "strengthScore": 18,
    "userProfilePK": 107188880,
    "vo2Max": null,
    "vo2MaxPreciseValue": null
@@ -4719,25 +4732,12 @@
    "userProfilePK": 107188880,
    "vo2Max": null,
    "vo2MaxPreciseValue": null
-  },
-  {
-   "calendarDate": "2025-11-05",
-   "deviceId": 3417032663,
-   "enduranceScore": 15,
-   "hillScoreClassificationId": 2,
-   "hillScoreFeedbackPhraseId": 42,
-   "overallScore": 32,
-   "primaryTrainingDevice": true,
-   "strengthScore": 10,
-   "userProfilePK": 107188880,
-   "vo2Max": null,
-   "vo2MaxPreciseValue": null
   }
  ],
  "maxScore": 67,
  "periodAvgScore": {
-  "2025-11-05": 45
+  "2025-11-06": 45
  },
- "startDate": "2025-11-05",
+ "startDate": "2025-11-06",
  "userProfilePK": 107188880
 }

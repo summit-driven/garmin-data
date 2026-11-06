@@ -1,17 +1,17 @@
 {
  "dateWeightList": [],
- "endDate": "2026-11-05",
- "startDate": "2025-11-05",
+ "endDate": "2026-11-06",
+ "startDate": "2025-11-06",
  "totalAverage": {
   "bmi": null,
   "bodyFat": null,
   "bodyWater": null,
   "boneMass": null,
-  "from": 1762300800000,
+  "from": 1762387200000,
   "metabolicAge": null,
   "muscleMass": null,
   "physiqueRating": null,
-  "until": 1793923199999,
+  "until": 1794009599999,
   "visceralFat": null,
   "weight": null
  }
