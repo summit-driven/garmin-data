@@ -3,19 +3,19 @@
  "mostRecentTrainingLoadBalance": {
   "metricsTrainingLoadBalanceDTOMap": {
    "3417032663": {
-    "calendarDate": "2026-11-08",
+    "calendarDate": "2026-11-09",
     "deviceId": 3417032663,
     "monthlyLoadAerobicHigh": 442.21597,
-    "monthlyLoadAerobicHighTargetMax": 1046,
-    "monthlyLoadAerobicHighTargetMin": 526,
+    "monthlyLoadAerobicHighTargetMax": 806,
+    "monthlyLoadAerobicHighTargetMin": 406,
     "monthlyLoadAerobicLow": 926.83765,
-    "monthlyLoadAerobicLowTargetMax": 945,
-    "monthlyLoadAerobicLowTargetMin": 426,
+    "monthlyLoadAerobicLowTargetMax": 729,
+    "monthlyLoadAerobicLowTargetMin": 328,
     "monthlyLoadAnaerobic": 254.70625,
-    "monthlyLoadAnaerobicTargetMax": 519,
-    "monthlyLoadAnaerobicTargetMin": 173,
+    "monthlyLoadAnaerobicTargetMax": 400,
+    "monthlyLoadAnaerobicTargetMin": 133,
     "primaryTrainingDevice": true,
-    "trainingBalanceFeedbackPhrase": "AEROBIC_HIGH_SHORTAGE"
+    "trainingBalanceFeedbackPhrase": "AEROBIC_LOW_FOCUS"
    }
   },
   "recordedDevices": [
@@ -29,20 +29,20 @@
   "userId": 107188880
  },
  "mostRecentTrainingStatus": {
-  "lastPrimarySyncDate": "2026-11-08",
+  "lastPrimarySyncDate": "2026-11-09",
   "latestTrainingStatusData": {
    "3417032663": {
     "acuteTrainingLoadDTO": {
-     "acwrPercent": 29,
+     "acwrPercent": 20,
      "acwrStatus": "LOW",
      "acwrStatusFeedback": "FEEDBACK_1",
-     "dailyAcuteChronicWorkloadRatio": 0.7,
-     "dailyTrainingLoadAcute": 313,
-     "dailyTrainingLoadChronic": 446,
-     "maxTrainingLoadChronic": 669.0,
-     "minTrainingLoadChronic": 356.8
+     "dailyAcuteChronicWorkloadRatio": 0.5,
+     "dailyTrainingLoadAcute": 255,
+     "dailyTrainingLoadChronic": 427,
+     "maxTrainingLoadChronic": 640.5,
+     "minTrainingLoadChronic": 341.6
     },
-    "calendarDate": "2026-11-08",
+    "calendarDate": "2026-11-09",
     "deviceId": 3417032663,
     "fitnessTrend": 1,
     "fitnessTrendSport": "RUNNING",
@@ -50,13 +50,13 @@
     "loadTunnelMax": null,
     "loadTunnelMin": null,
     "primaryTrainingDevice": true,
-    "sinceDate": "2026-10-26",
+    "sinceDate": "2026-10-27",
     "sport": "RUNNING",
     "subSport": "GENERIC",
-    "timestamp": 1794122424000,
+    "timestamp": 1794209124000,
     "trainingPaused": false,
     "trainingStatus": 2,
-    "trainingStatusFeedbackPhrase": "UNPRODUCTIVE_3",
+    "trainingStatusFeedbackPhrase": "UNPRODUCTIVE_5",
     "weeklyTrainingLoad": null
    }
   },
@@ -84,19 +84,19 @@
   "heatAltitudeAcclimation": {
    "acclimationPercentage": 0,
    "altitudeAcclimation": 0,
-   "altitudeAcclimationDate": "2026-11-07",
-   "altitudeAcclimationLocalTimestamp": "2026-11-08T00:05:24.0",
+   "altitudeAcclimationDate": "2026-11-08",
+   "altitudeAcclimationLocalTimestamp": "2026-11-09T00:05:24.0",
    "altitudeTrend": null,
-   "calendarDate": "2026-11-08",
+   "calendarDate": "2026-11-09",
    "currentAltitude": 0,
-   "heatAcclimationDate": "2026-11-07",
+   "heatAcclimationDate": "2026-11-08",
    "heatAcclimationPercentage": 0,
    "heatTrend": null,
    "previousAcclimationPercentage": 0,
    "previousAltitude": 0,
    "previousAltitudeAcclimation": 0,
-   "previousAltitudeAcclimationDate": "2026-11-07",
-   "previousHeatAcclimationDate": "2026-11-07",
+   "previousAltitudeAcclimationDate": "2026-11-08",
+   "previousHeatAcclimationDate": "2026-11-08",
    "previousHeatAcclimationPercentage": 0
   },
   "userId": 107188880
