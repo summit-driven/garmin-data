@@ -88,7 +88,7 @@
   }
  ],
  "date": "2026-11-10",
- "fetched_at": "2026-11-11T08:53:47+00:00",
+ "fetched_at": "2026-11-12T08:30:09+00:00",
  "fitness_age": {
   "achievableFitnessAge": 29.340520234469633,
   "chronologicalAge": 35,
@@ -3367,9 +3367,9 @@
   "userProfilePK": 107188880,
   "vigorousMinutes": 58,
   "weekGoal": 150,
-  "weeklyModerate": 19,
-  "weeklyTotal": 177,
-  "weeklyVigorous": 79
+  "weeklyModerate": 26,
+  "weeklyTotal": 234,
+  "weeklyVigorous": 104
  },
  "max_metrics": [],
  "respiration": {
@@ -16473,6 +16473,8 @@
     "fitnessAge": null,
     "fitnessAgeDescription": null,
     "maxMetCategory": 0,
+    "sport": "RUNNING",
+    "subSport": "GENERIC",
     "vo2MaxPreciseValue": 54.5,
     "vo2MaxValue": 55.0
    },

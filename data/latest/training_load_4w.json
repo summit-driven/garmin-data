@@ -1,12 +1,12 @@
 {
  "metricsTrainingLoadBalanceDTOMap": {
   "3417032663": {
-   "calendarDate": "2026-11-11",
+   "calendarDate": "2026-11-12",
    "deviceId": 3417032663,
    "monthlyLoadAerobicHigh": 442.21597,
    "monthlyLoadAerobicHighTargetMax": 806,
    "monthlyLoadAerobicHighTargetMin": 406,
-   "monthlyLoadAerobicLow": 981.6181,
+   "monthlyLoadAerobicLow": 996.65686,
    "monthlyLoadAerobicLowTargetMax": 729,
    "monthlyLoadAerobicLowTargetMin": 328,
    "monthlyLoadAnaerobic": 280.29724,
