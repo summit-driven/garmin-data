@@ -13,22 +13,22 @@
   "contributors": [
    {
     "activityTypeId": 223,
-    "contribution": 64.94,
+    "contribution": 64.31,
     "group": null
    },
    {
     "activityTypeId": 37,
-    "contribution": 26.04,
+    "contribution": 25.79,
     "group": null
    },
    {
     "activityTypeId": null,
-    "contribution": 7.71,
+    "contribution": 7.64,
     "group": 0
    },
    {
     "activityTypeId": null,
-    "contribution": 1.31,
+    "contribution": 2.26,
     "group": 8
    }
   ],
@@ -36,7 +36,7 @@
   "feedbackPhrase": 55,
   "gaugeLowerLimit": 3570,
   "gaugeUpperLimit": 10560,
-  "overallScore": 6832,
+  "overallScore": 6840,
   "primaryTrainingDevice": true,
   "userProfilePK": 107188880
  },
@@ -1412,27 +1412,27 @@
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 64.472855,
+     "contribution": 64.38286,
      "group": null
     },
     {
      "activityTypeId": 37,
-     "contribution": 26.51,
+     "contribution": 26.474287,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 8.434286,
+     "contribution": 8.424286,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 0.58285713,
+     "contribution": 0.71857136,
      "group": 8
     }
    ],
-   "groupAverage": 6796,
-   "groupMax": 6832
+   "groupAverage": 6797,
+   "groupMax": 6840
   }
  },
  "max": 7256,
