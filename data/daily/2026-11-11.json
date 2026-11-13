@@ -88,7 +88,7 @@
   }
  ],
  "date": "2026-11-11",
- "fetched_at": "2026-11-12T21:02:20+00:00",
+ "fetched_at": "2026-11-13T08:30:06+00:00",
  "fitness_age": {
   "achievableFitnessAge": 29.340520234469633,
   "chronologicalAge": 35,
@@ -3616,9 +3616,9 @@
   "userProfilePK": 107188880,
   "vigorousMinutes": 26,
   "weekGoal": 150,
-  "weeklyModerate": 26,
-  "weeklyTotal": 234,
-  "weeklyVigorous": 104
+  "weeklyModerate": 33,
+  "weeklyTotal": 287,
+  "weeklyVigorous": 127
  },
  "max_metrics": [],
  "respiration": {

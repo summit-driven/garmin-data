@@ -218,14 +218,14 @@
   "activityType": null,
   "id": 2137077052,
   "poolLengthUnit": null,
-  "prStartTimeGmt": 1794351600000,
-  "prStartTimeGmtFormatted": "2026-11-10T23:00:00.0",
-  "prStartTimeLocal": 1794355200000,
-  "prStartTimeLocalFormatted": "2026-11-11T00:00:00.0",
+  "prStartTimeGmt": 1794524400000,
+  "prStartTimeGmtFormatted": "2026-11-12T23:00:00.0",
+  "prStartTimeLocal": 1794528000000,
+  "prStartTimeLocalFormatted": "2026-11-13T00:00:00.0",
   "prTypeLabelKey": null,
   "status": "ACCEPTED",
   "typeId": 16,
-  "value": 2.0
+  "value": 0.0
  },
  {
   "actStartDateTimeInGMTFormatted": "2026-11-12T18:12:43.0",
