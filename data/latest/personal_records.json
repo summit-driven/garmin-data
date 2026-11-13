@@ -251,27 +251,27 @@
   "value": 1350.0
  },
  {
-  "actStartDateTimeInGMTFormatted": "2026-11-12T18:12:43.0",
-  "activityId": 25057850596,
+  "actStartDateTimeInGMTFormatted": "2026-11-13T15:55:38.0",
+  "activityId": 25067353657,
   "activityName": "Pływanie na basenie",
-  "activityStartDateTimeInGMT": 1794507163000,
-  "activityStartDateTimeLocal": 1794510763000,
-  "activityStartDateTimeLocalFormatted": "2026-11-12T19:12:43.0",
+  "activityStartDateTimeInGMT": 1794585338000,
+  "activityStartDateTimeLocal": 1794588938000,
+  "activityStartDateTimeLocalFormatted": "2026-11-13T16:55:38.0",
   "activityType": "lap_swimming",
-  "id": 3076719659,
+  "id": 3077201557,
   "poolLengthUnit": {
    "factor": 100.0,
    "id": 1,
    "key": "meter"
   },
-  "prStartTimeGmt": 1794508567000,
-  "prStartTimeGmtFormatted": "2026-11-12T18:36:07.0",
+  "prStartTimeGmt": 1794585533000,
+  "prStartTimeGmtFormatted": "2026-11-13T15:58:53.0",
   "prStartTimeLocal": null,
   "prStartTimeLocalFormatted": null,
   "prTypeLabelKey": null,
   "status": "ACCEPTED",
   "typeId": 18,
-  "value": 74.00299835205078
+  "value": 70.18699645996094
  },
  {
   "actStartDateTimeInGMTFormatted": "2026-11-12T18:12:43.0",
