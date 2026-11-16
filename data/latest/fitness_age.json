@@ -13,20 +13,20 @@
   },
   "rhr": {
    "stale": false,
-   "value": 46
+   "value": 45
   },
   "vigorousDaysAvg": {
    "numOfWeeksForIm": 6,
    "stale": false,
-   "value": 3.5
+   "value": 3.3
   },
   "vigorousMinutesAvg": {
    "numOfWeeksForIm": 6,
    "stale": false,
-   "value": 238.1
+   "value": 229.0
   }
  },
- "fitnessAge": 30.79372787451983,
- "lastUpdated": "2026-11-15T00:00:00.0",
+ "fitnessAge": 30.681716477005413,
+ "lastUpdated": "2026-11-16T00:00:00.0",
  "previousFitnessAge": 30.79372787451983
 }
