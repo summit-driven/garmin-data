@@ -2,6 +2,19 @@
  "endDate": "2026-11-17",
  "hillScoreDTOList": [
   {
+   "calendarDate": "2026-11-17",
+   "deviceId": 3417032663,
+   "enduranceScore": 7,
+   "hillScoreClassificationId": 2,
+   "hillScoreFeedbackPhraseId": 43,
+   "overallScore": 34,
+   "primaryTrainingDevice": true,
+   "strengthScore": 17,
+   "userProfilePK": 107188880,
+   "vo2Max": null,
+   "vo2MaxPreciseValue": null
+  },
+  {
    "calendarDate": "2026-11-16",
    "deviceId": 3417032663,
    "enduranceScore": 7,

@@ -1,9 +1,9 @@
 {
- "avg": 6400,
+ "avg": 6399,
  "endDate": "2026-11-17",
  "enduranceScoreDTO": {
-  "calendarDate": "2026-11-16",
-  "classification": 4,
+  "calendarDate": "2026-11-17",
+  "classification": 3,
   "classificationLowerLimitElite": 8800,
   "classificationLowerLimitExpert": 7300,
   "classificationLowerLimitIntermediate": 5100,
@@ -33,10 +33,10 @@
    }
   ],
   "deviceId": 3417032663,
-  "feedbackPhrase": 55,
+  "feedbackPhrase": 53,
   "gaugeLowerLimit": 3570,
   "gaugeUpperLimit": 10560,
-  "overallScore": 6787,
+  "overallScore": 6562,
   "primaryTrainingDevice": true,
   "userProfilePK": 107188880
  },
@@ -1417,26 +1417,26 @@
    "enduranceContributorDTOList": [
     {
      "activityTypeId": 223,
-     "contribution": 66.034996,
+     "contribution": 66.865715,
      "group": null
     },
     {
      "activityTypeId": 37,
-     "contribution": 23.011667,
+     "contribution": 21.838573,
      "group": null
     },
     {
      "activityTypeId": null,
-     "contribution": 7.84,
+     "contribution": 7.9385715,
      "group": 0
     },
     {
      "activityTypeId": null,
-     "contribution": 3.1133335,
+     "contribution": 3.357143,
      "group": 8
     }
    ],
-   "groupAverage": 6825,
+   "groupAverage": 6787,
    "groupMax": 6840
   }
  },

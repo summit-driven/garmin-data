@@ -97,7 +97,7 @@
   }
  ],
  "date": "2026-11-16",
- "fetched_at": "2026-11-17T07:17:27+00:00",
+ "fetched_at": "2026-11-17T08:30:16+00:00",
  "fitness_age": {
   "achievableFitnessAge": 29.340520234469633,
   "chronologicalAge": 35,
@@ -3384,7 +3384,7 @@
  "max_metrics": [],
  "respiration": {
   "avgSleepRespirationValue": 12.0,
-  "avgTomorrowSleepRespirationValue": null,
+  "avgTomorrowSleepRespirationValue": 12.0,
   "avgWakingRespirationValue": 13.0,
   "calendarDate": "2026-11-16",
   "endTimestampGMT": "2026-11-16T23:00:00.0",
@@ -6454,10 +6454,10 @@
   "sleepStartTimestampLocal": "2026-11-16T01:17:24.0",
   "startTimestampGMT": "2026-11-15T23:00:00.0",
   "startTimestampLocal": "2026-11-16T00:00:00.0",
-  "tomorrowSleepEndTimestampGMT": null,
-  "tomorrowSleepEndTimestampLocal": null,
-  "tomorrowSleepStartTimestampGMT": null,
-  "tomorrowSleepStartTimestampLocal": null,
+  "tomorrowSleepEndTimestampGMT": "2026-11-17T06:29:03.0",
+  "tomorrowSleepEndTimestampLocal": "2026-11-17T07:29:03.0",
+  "tomorrowSleepStartTimestampGMT": "2026-11-16T22:40:03.0",
+  "tomorrowSleepStartTimestampLocal": "2026-11-16T23:40:03.0",
   "userProfilePK": 107188880
  },
  "sleep": {
@@ -10698,10 +10698,10 @@
   "spO2ValueDescriptorsDTOList": null,
   "startTimestampGMT": "2026-11-15T23:00:00.0",
   "startTimestampLocal": "2026-11-16T00:00:00.0",
-  "tomorrowSleepEndTimestampGMT": null,
-  "tomorrowSleepEndTimestampLocal": null,
-  "tomorrowSleepStartTimestampGMT": null,
-  "tomorrowSleepStartTimestampLocal": null,
+  "tomorrowSleepEndTimestampGMT": "2026-11-17T06:29:03.0",
+  "tomorrowSleepEndTimestampLocal": "2026-11-17T07:29:03.0",
+  "tomorrowSleepStartTimestampGMT": "2026-11-16T22:40:03.0",
+  "tomorrowSleepStartTimestampLocal": "2026-11-16T23:40:03.0",
   "userProfilePK": 107188880
  },
  "steps": [
@@ -11458,7 +11458,7 @@
    "steps": 13
   },
   {
-   "activityLevelConstant": true,
+   "activityLevelConstant": false,
    "endGMT": "2026-11-16T22:45:00.0",
    "primaryActivityLevel": "sedentary",
    "pushes": 0,
@@ -11468,7 +11468,7 @@
   {
    "activityLevelConstant": true,
    "endGMT": "2026-11-16T23:00:00.0",
-   "primaryActivityLevel": "sedentary",
+   "primaryActivityLevel": "sleeping",
    "pushes": 0,
    "startGMT": "2026-11-16T22:45:00.0",
    "steps": 0
@@ -16458,8 +16458,8 @@
    "typeId": 2,
    "typeKey": "private"
   },
-  "sedentarySeconds": 64146,
-  "sleepingSeconds": 15600,
+  "sedentarySeconds": 62949,
+  "sleepingSeconds": 16797,
   "source": "GARMIN",
   "stressDuration": 20940,
   "stressPercentage": 25.29,
