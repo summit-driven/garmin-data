@@ -5,7 +5,7 @@
   "bmi": {
    "improvementValue": 6.0,
    "lastMeasurementDate": "2024-07-09",
-   "potentialAge": 29.340520234469633,
+   "potentialAge": 30.044528789489956,
    "priority": 1,
    "stale": false,
    "targetValue": 21.1,
@@ -17,16 +17,19 @@
   },
   "vigorousDaysAvg": {
    "numOfWeeksForIm": 6,
+   "potentialAge": 32.68706261677102,
+   "priority": 2,
    "stale": false,
-   "value": 3.1
+   "targetValue": 3,
+   "value": 2.8
   },
   "vigorousMinutesAvg": {
    "numOfWeeksForIm": 6,
    "stale": false,
-   "value": 217.0
+   "value": 195.3
   }
  },
- "fitnessAge": 30.681716477005413,
- "lastUpdated": "2026-11-18T00:00:00.0",
+ "fitnessAge": 31.298797363581215,
+ "lastUpdated": "2026-11-20T00:00:00.0",
  "previousFitnessAge": 30.681716477005413
 }
