@@ -21,15 +21,15 @@
    "priority": 2,
    "stale": false,
    "targetValue": 3,
-   "value": 2.8
+   "value": 2.6
   },
   "vigorousMinutesAvg": {
    "numOfWeeksForIm": 6,
    "stale": false,
-   "value": 195.3
+   "value": 165.5
   }
  },
  "fitnessAge": 31.298797363581215,
- "lastUpdated": "2026-11-20T00:00:00.0",
- "previousFitnessAge": 30.681716477005413
+ "lastUpdated": "2026-11-21T00:00:00.0",
+ "previousFitnessAge": 31.298797363581215
 }

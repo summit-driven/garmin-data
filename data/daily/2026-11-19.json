@@ -70,7 +70,7 @@
   }
  ],
  "date": "2026-11-19",
- "fetched_at": "2026-11-20T09:02:56+00:00",
+ "fetched_at": "2026-11-21T08:30:07+00:00",
  "fitness_age": {
   "achievableFitnessAge": 29.340520234469633,
   "chronologicalAge": 35,
@@ -3497,7 +3497,7 @@
  "max_metrics": [],
  "respiration": {
   "avgSleepRespirationValue": 12.0,
-  "avgTomorrowSleepRespirationValue": null,
+  "avgTomorrowSleepRespirationValue": 13.0,
   "avgWakingRespirationValue": 15.0,
   "calendarDate": "2026-11-19",
   "endTimestampGMT": "2026-11-19T23:00:00.0",
@@ -6567,10 +6567,10 @@
   "sleepStartTimestampLocal": "2026-11-19T01:15:24.0",
   "startTimestampGMT": "2026-11-18T23:00:00.0",
   "startTimestampLocal": "2026-11-19T00:00:00.0",
-  "tomorrowSleepEndTimestampGMT": null,
-  "tomorrowSleepEndTimestampLocal": null,
-  "tomorrowSleepStartTimestampGMT": null,
-  "tomorrowSleepStartTimestampLocal": null,
+  "tomorrowSleepEndTimestampGMT": "2026-11-20T09:12:02.0",
+  "tomorrowSleepEndTimestampLocal": "2026-11-20T10:12:02.0",
+  "tomorrowSleepStartTimestampGMT": "2026-11-19T23:54:02.0",
+  "tomorrowSleepStartTimestampLocal": "2026-11-20T00:54:02.0",
   "userProfilePK": 107188880
  },
  "sleep": {
@@ -12954,10 +12954,10 @@
   "spO2ValueDescriptorsDTOList": null,
   "startTimestampGMT": "2026-11-18T23:00:00.0",
   "startTimestampLocal": "2026-11-19T00:00:00.0",
-  "tomorrowSleepEndTimestampGMT": null,
-  "tomorrowSleepEndTimestampLocal": null,
-  "tomorrowSleepStartTimestampGMT": null,
-  "tomorrowSleepStartTimestampLocal": null,
+  "tomorrowSleepEndTimestampGMT": "2026-11-20T09:12:02.0",
+  "tomorrowSleepEndTimestampLocal": "2026-11-20T10:12:02.0",
+  "tomorrowSleepStartTimestampGMT": "2026-11-19T23:54:02.0",
+  "tomorrowSleepStartTimestampLocal": "2026-11-20T00:54:02.0",
   "userProfilePK": 107188880
  },
  "steps": [
