@@ -1,6 +1,32 @@
 {
- "endDate": "2026-11-21",
+ "endDate": "2026-11-23",
  "hillScoreDTOList": [
+  {
+   "calendarDate": "2026-11-23",
+   "deviceId": 3417032663,
+   "enduranceScore": 7,
+   "hillScoreClassificationId": 2,
+   "hillScoreFeedbackPhraseId": 4,
+   "overallScore": 33,
+   "primaryTrainingDevice": true,
+   "strengthScore": 15,
+   "userProfilePK": 107188880,
+   "vo2Max": null,
+   "vo2MaxPreciseValue": null
+  },
+  {
+   "calendarDate": "2026-11-22",
+   "deviceId": 3417032663,
+   "enduranceScore": 7,
+   "hillScoreClassificationId": 2,
+   "hillScoreFeedbackPhraseId": 44,
+   "overallScore": 33,
+   "primaryTrainingDevice": true,
+   "strengthScore": 15,
+   "userProfilePK": 107188880,
+   "vo2Max": null,
+   "vo2MaxPreciseValue": null
+  },
   {
    "calendarDate": "2026-11-21",
    "deviceId": 3417032663,
@@ -4719,38 +4745,12 @@
    "userProfilePK": 107188880,
    "vo2Max": null,
    "vo2MaxPreciseValue": null
-  },
-  {
-   "calendarDate": "2025-11-22",
-   "deviceId": 3417032663,
-   "enduranceScore": 15,
-   "hillScoreClassificationId": 2,
-   "hillScoreFeedbackPhraseId": 43,
-   "overallScore": 32,
-   "primaryTrainingDevice": true,
-   "strengthScore": 11,
-   "userProfilePK": 107188880,
-   "vo2Max": null,
-   "vo2MaxPreciseValue": null
-  },
-  {
-   "calendarDate": "2025-11-21",
-   "deviceId": 3417032663,
-   "enduranceScore": 15,
-   "hillScoreClassificationId": 2,
-   "hillScoreFeedbackPhraseId": 42,
-   "overallScore": 32,
-   "primaryTrainingDevice": true,
-   "strengthScore": 11,
-   "userProfilePK": 107188880,
-   "vo2Max": null,
-   "vo2MaxPreciseValue": null
   }
  ],
  "maxScore": 67,
  "periodAvgScore": {
-  "2025-11-21": 45
+  "2025-11-23": 45
  },
- "startDate": "2025-11-21",
+ "startDate": "2025-11-23",
  "userProfilePK": 107188880
 }
